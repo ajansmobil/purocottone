@@ -1,0 +1,48 @@
+{
+  "name": {
+    "tr": "Ana Sayfa"
+  },
+  "status": "pause",
+  "category": "",
+  "id": "anasayfa",
+  "path": "anasayfa",
+  "index": 4,
+  "title": {
+    "tr": "Puro Cottone — Gaziantep kişiye özel terzihane"
+  },
+  "description": {
+    "tr": "Takım elbise, pantolon, gömlek, yelek, palto ve kaban — ölçünüze göre çizilen kalıpla, provayla dikilir. Batıkent Mahallesi, Adnan İnanıcı Cad. No: 25/C, Şehitkamil / Gaziantep · +90 530 974 11 50."
+  },
+  "desing": {
+    "header": [
+      "vey1el"
+    ],
+    "body": [
+      "yigh6g",
+      "g4vtrn",
+      "gone01",
+      "s5adim",
+      "g5akis",
+      "gsosyl",
+      "t1ct01"
+    ],
+    "footer": [
+      "txt39m",
+      "wapc01"
+    ]
+  },
+  "bolumler": {
+    "hero": "yigh6g",
+    "kategoriler": "g4vtrn",
+    "one_cikan_urunler": "gone01",
+    "atolye_kalite": [
+      "s5adim",
+      "g5akis"
+    ],
+    "sosyal": "gsosyl",
+    "iletisim_cagrisi": "t1ct01"
+  },
+  "desc": {},
+  "update": "2026-11-25",
+  "date": "2026-11-25"
+}

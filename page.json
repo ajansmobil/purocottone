@@ -48,7 +48,7 @@
       },
       "pathnext": "",
       "description": {
-        "tr": "Puro Cottone ürünleri: Gaziantep'te ölçünüze göre çizilen kalıpla dikilen kişiye özel takım elbise, pantolon, gömlek ve yelek."
+        "tr": "Puro Cottone ürünleri: Gaziantep'te ölçünüze göre çizilen kalıpla dikilen kişiye özel takım elbise, pantolon, gömlek, yelek, palto ve kaban."
       }
     },
     {
@@ -98,6 +98,51 @@
       "pathnext": "",
       "description": {
         "tr": "Puro Cottone iletişim: Batıkent Mahallesi, Adnan İnanıcı Cad. No: 25/C, Şehitkamil / Gaziantep. Telefon ve WhatsApp: 0530 974 11 50 · Instagram @purocottone."
+      }
+    },
+    {
+      "name": {
+        "tr": "Ana Sayfa"
+      },
+      "status": "pause",
+      "category": "",
+      "id": "anasayfa",
+      "url": "",
+      "path": "anasayfa",
+      "index": 4,
+      "pathnext": "",
+      "description": {
+        "tr": "Puro Cottone ana sayfası: kategoriler, öne çıkan ürünler, atölye akışı ve iletişim çağrısı. Gövde desing.json > body ile render edilir; bu kayıt ana sayfanın sayfa kaydıdır (status pause: /tr/anasayfa/ kopyası ve menüde ikinci «Ana Sayfa» üretilmez)."
+      }
+    },
+    {
+      "name": {
+        "tr": "Palto"
+      },
+      "status": "pause",
+      "category": "",
+      "id": "zmq8c8edw7",
+      "url": "",
+      "path": "palto",
+      "index": 5,
+      "pathnext": "",
+      "description": {
+        "tr": "Puro Cottone kişiye özel palto kategori sayfasının sayfa kaydı. Sayfa products.json > zmq8c8edw7 satırıyla /tr/palto/ adresinde render edilir ve menüde oradan görünür; bu kayıt status pause (ikinci /tr/palto/ render’ı ve menüde çift «Palto» üretilmez). Gövde: page/zmq8c8edw7/index.json (takimelbise kalıbı)."
+      }
+    },
+    {
+      "name": {
+        "tr": "Kaban"
+      },
+      "status": "pause",
+      "category": "",
+      "id": "0h7u4m5nx2",
+      "url": "",
+      "path": "kaban",
+      "index": 6,
+      "pathnext": "",
+      "description": {
+        "tr": "Puro Cottone kişiye özel kaban kategori sayfasının sayfa kaydı. Sayfa products.json > 0h7u4m5nx2 satırıyla /tr/kaban/ adresinde render edilir ve menüde oradan görünür; bu kayıt status pause (ikinci /tr/kaban/ render’ı ve menüde çift «Kaban» üretilmez). Gövde: page/0h7u4m5nx2/index.json (palto/takimelbise kalıbı); görseller mevcut (kapak.jpg 1600x900, bg/1.jpg 1080x1920)."
       }
     }
   ],

@@ -24,7 +24,6 @@
     "footer": []
   },
   "index": 5,
-  "url": "",
   "text": {
     "tr": "<article><h2>Soğukta rahat, çizgisi bozulmayan kaban</h2><p>Kaban paltodan kısa ve daha rahat bir kesimdir; omuzdan kola, kol evinden bele geçişi hareket ederken bozulmayacak şekilde çizilir. Puro Cottone'da kabanınızı ölçünüze göre keser, provayla üzerinize oturturuz.</p><h3>Örnek modeller</h3><ul class=\"modulex-pd5-features\"><li><strong>Klasik kaban</strong> — kalın kumaştan, bel altı boyunda, günlük kullanım için.</li><li><strong>Kısa kaban</strong> — takım ya da kot üzerine, rahat hareket için.</li><li><strong>Astarlı kaban</strong> — soğuk günlere özel, yün ya da kapitone astarlı.</li></ul><h3>Detayda neye bakıyoruz?</h3><ul><li><strong>Omuz:</strong> ceketin üzerinden giyilse de omuz çizgisi korunur.</li><li><strong>Boy:</strong> bel altı ya da kalça hizası, hareket genişliğine göre.</li><li><strong>Astar:</strong> mevsime göre ince ya da kalın astar seçilir.</li><li><strong>Prova:</strong> kalın giysiyle birlikte yapılır, oran birlikte düzeltilir.</li></ul><h3>Kumaş ve fiyat</h3><p>Kumaş seçenekleri ve fiyat bilgisi: yakında. Ölçü randevusunda birlikte seçeriz.</p><h3>Kişiye özel akış</h3><p>Ölçü → Kalıp → Kesim → Prova → Teslim. Adımların ayrıntısı aşağıda.</p></article>"
   },
@@ -35,5 +34,6 @@
   "update": "2026-11-25T12:16:52.831Z",
   "img": "kapak.jpg",
   "bgimg": "1.jpg",
-  "bg": "1.jpg"
+  "bg": "1.jpg",
+  "desc": {}
 }

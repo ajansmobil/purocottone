@@ -16,7 +16,7 @@
         "band_bg": "#161616",
         "band_text": "#E6D3A3",
         "bg": "#000000",
-        "bilgi_bandi": false,
+        "bilgi_bandi": true,
         "border": "rgba(201,164,92,0.35)",
         "bordercolor": "rgba(201,164,92,0.35)",
         "hours": {
@@ -26,7 +26,7 @@
         },
         "logo_h": "72px",
         "muted": "#CFC7B8",
-        "phone": "",
+        "phone": "+90 530 974 11 50",
         "showlang": false,
         "social": [],
         "sticky": true,
@@ -62,7 +62,52 @@
         "statik": true,
         "dinamik": false,
         "kaynak": "desing/data"
-      }
+      },
+      "siteOzel": true,
+      "data": [
+        {
+          "parent": "urunler",
+          "name": {
+            "tr": "Takım Elbise"
+          },
+          "url": "takim-elbise"
+        },
+        {
+          "parent": "urunler",
+          "name": {
+            "tr": "Pantolon"
+          },
+          "url": "pantolon"
+        },
+        {
+          "parent": "urunler",
+          "name": {
+            "tr": "Gömlek"
+          },
+          "url": "gomlek"
+        },
+        {
+          "parent": "urunler",
+          "name": {
+            "tr": "Yelek"
+          },
+          "url": "yelek"
+        },
+        {
+          "parent": "urunler",
+          "name": {
+            "tr": "Palto"
+          },
+          "url": "palto"
+        },
+        {
+          "parent": "urunler",
+          "name": {
+            "tr": "Kaban"
+          },
+          "url": "kaban"
+        }
+      ]
     },
     {
       "name": "Slider",
@@ -303,7 +348,7 @@
           "tr": "Gaziantep'te kişiye özel terzihane"
         },
         "description": {
-          "tr": "Hazır giyim ortalama bir beden için üretilir; Puro Cottone ise sizin için keser. Takım elbise, pantolon, gömlek ve yeleği ölçünüze göre çizilen kalıpla, provayla üzerinize oturtarak dikiyoruz."
+          "tr": "Hazır giyim ortalama bir beden için üretilir; Puro Cottone ise sizin için keser. Takım elbise, pantolon, gömlek, yelek, palto ve kabanı ölçünüze göre çizilen kalıpla, provayla üzerinize oturtarak dikiyoruz."
         },
         "name2": {
           "tr": "Ölçüye özel kalıp"
@@ -368,16 +413,16 @@
           "tr": "Size ait bir kalıp"
         },
         "description": {
-          "tr": "Ölçü randevusu için bize yazın; ölçüden teslime her adımı birlikte planlayalım."
+          "tr": "Ölçü randevusu için bize yazın ya da arayın: +90 530 974 11 50. Ölçüden teslime her adımı birlikte planlayalım."
         },
         "btn1Text": {
           "tr": "Ölçü Randevusu"
         },
         "btn1Url": "iletisim",
         "btn2Text": {
-          "tr": "Ürünler"
+          "tr": "WhatsApp’tan yazın"
         },
-        "btn2Url": "urunler",
+        "btn2Url": "https://wa.me/905309741150",
         "stil": ""
       },
       "index": 9
@@ -430,13 +475,13 @@
       "desing": {
         "max": "1200px",
         "ust": {
-          "tr": "Kişiye özel üretim"
+          "tr": "Kategoriler"
         },
         "baslik": {
           "tr": "Ne dikiyoruz?"
         },
         "metin": {
-          "tr": "Dört parça, tek ilke: ölçünüzle başlar, provada üzerinizde düzeltilir."
+          "tr": "Altı parça, tek ilke: ölçünüzle başlar, provada üzerinizde düzeltilir."
         },
         "bosluk": "clamp(56px, 8vw, 104px)",
         "yuvarlak": "18px",
@@ -1119,7 +1164,7 @@
           "tr": "Gaziantep'te kişiye özel terzihane"
         },
         "metin": {
-          "tr": "Hazır giyim ortalama bir beden için üretilir; Puro Cottone ise sizin için keser. Takım elbise, pantolon, gömlek ve yeleği ölçünüze göre çizilen kalıpla, provayla üzerinize oturtarak dikiyoruz."
+          "tr": "Hazır giyim ortalama bir beden için üretilir; Puro Cottone ise sizin için keser. Takım elbise, pantolon, gömlek, yelek, palto ve kabanı ölçünüze göre çizilen kalıpla, provayla üzerinize oturtarak dikiyoruz."
         },
         "cta1": {
           "tr": "Ürünleri inceleyin"
@@ -1170,6 +1215,85 @@
       "path": "hero-4",
       "local": "body",
       "index": 22
+    },
+    {
+      "id": "gone01",
+      "name": "Öne Çıkan Ürünler",
+      "path": "galeri-kare-izgara",
+      "local": "body",
+      "category": "galeri",
+      "version": "1.0.0",
+      "icon": "grid_view",
+      "desing": {
+        "max": "1200px",
+        "ust": {
+          "tr": "Öne çıkan ürünler"
+        },
+        "baslik": {
+          "tr": "Atölyeden çıkan parçalar"
+        },
+        "bosluk": "clamp(56px, 8vw, 104px)",
+        "yuvarlak": "18px",
+        "metin": {
+          "tr": "Ölçüyle başlayan, provada oturtulan ve teslim edilen işlerden seçmeler."
+        },
+        "tumu": "",
+        "bg": "var(--mx-site-bg, #ffffff)",
+        "text": "var(--mx-site-text, #111318)",
+        "muted": "color-mix(in srgb, var(--mx-site-text, #111318) 68%, var(--mx-site-bg, #ffffff))",
+        "kartBg": "var(--mx-site-surface, #f6f7f9)",
+        "cizgi": "color-mix(in srgb, var(--mx-site-text, #111318) 12%, transparent)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentInk": "color-mix(in srgb, var(--mx-site-primary, #2563eb) 70%, var(--mx-site-text, #111318))",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "vurguBg": "var(--mx-site-primary, #2563eb)",
+        "vurguText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "color": "var(--mx-site-text, #111318)"
+      },
+      "data": [
+        {
+          "img": "ornek/te-3-teslim.jpg",
+          "katAd": {
+            "tr": "Takım Elbise"
+          },
+          "baslik": {
+            "tr": "Omuz çizgisi temiz, düğme rahat"
+          },
+          "url": "takim-elbise"
+        },
+        {
+          "img": "ornek/ye-2-ucparca.jpg",
+          "katAd": {
+            "tr": "Yelek"
+          },
+          "baslik": {
+            "tr": "Aynı kumaştan üç parça"
+          },
+          "url": "yelek"
+        },
+        {
+          "img": "ornek/go-1-manset.jpg",
+          "katAd": {
+            "tr": "Gömlek"
+          },
+          "baslik": {
+            "tr": "Manşet bilekte, kol boyu yerinde"
+          },
+          "url": "gomlek"
+        },
+        {
+          "img": "ornek/pa-1-kirilma.jpg",
+          "katAd": {
+            "tr": "Pantolon"
+          },
+          "baslik": {
+            "tr": "Tek kırılma, temiz paça"
+          },
+          "url": "pantolon"
+        }
+      ],
+      "index": 23
     }
   ]
 }

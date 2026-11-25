@@ -24,7 +24,6 @@
     "footer": []
   },
   "index": 4,
-  "url": "",
   "text": {
     "tr": "<article><h2>Takımınızın üzerine oturan palto</h2><p>Palto, ceketin üzerine giyildiği için kalıbı ayrı çizilir: omuz ve kol evi ceketi sıkıştırmayacak payla hesaplanır. Puro Cottone'da paltonuzu ölçünüze göre sıfırdan çizilen kalıpla keser, provayla üzerinize oturturuz.</p><h3>Örnek modeller</h3><ul class=\"modulex-pd5-features\"><li><strong>Klasik palto</strong> — diz hizasında, düz çizgili, günlük ve iş için.</li><li><strong>Kruvaze palto</strong> — çift sıra düğmeli, omuzu vurgulu kesim.</li><li><strong>Damatlık paltosu</strong> — takımla uyumlu, düğün gününe özel.</li></ul><h3>Detayda neye bakıyoruz?</h3><ul><li><strong>Omuz ve kol evi:</strong> ceketle birlikte denenir, kol hareketi kısıtlanmaz.</li><li><strong>Boy:</strong> diz hizası ya da istediğiniz uzunluk, ayakkabıyla birlikte değerlendirilir.</li><li><strong>Yaka:</strong> duruşunuza ve kravat/atkı kullanımınıza göre belirlenir.</li><li><strong>Prova:</strong> takımınızla birlikte yapılır, oran birlikte düzeltilir.</li></ul><h3>Kumaş ve fiyat</h3><p>Kumaş seçenekleri ve fiyat bilgisi: yakında. Ölçü randevusunda birlikte seçeriz.</p><h3>Kişiye özel akış</h3><p>Ölçü → Kalıp → Kesim → Prova → Teslim. Adımların ayrıntısı aşağıda.</p></article>"
   },
@@ -35,5 +34,6 @@
   "update": "2026-11-25T12:16:52.653Z",
   "img": "kapak.jpg",
   "bgimg": "1.jpg",
-  "bg": "1.jpg"
+  "bg": "1.jpg",
+  "desc": {}
 }
