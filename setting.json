@@ -57,6 +57,7 @@
   "city": "Gaziantep",
   "country": "TR",
   "theme_color": "#8A6A2E",
+  "cerezSimgeGizle": true,
   "social": {
     "instagram": "https://www.instagram.com/purocottone/"
   },

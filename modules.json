@@ -263,6 +263,7 @@
         "color": "#FFFFFF",
         "img": "logo.jpg",
         "imgwidth": "160px",
+        "cerezTercih": true,
         "stil": "",
         "showlang": true,
         "showsocial": true,
