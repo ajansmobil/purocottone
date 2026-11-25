@@ -1,0 +1,92 @@
+{
+  "order": false,
+  "user": false,
+  "description": {
+    "tr": "Puro Cottone — Gaziantep'te kişiye özel terzihane. Takım elbise, pantolon, gömlek ve yelek ölçünüze göre çizilen kalıpla, provayla dikilir."
+  },
+  "keyword": {
+    "tr": "Puro Cottone, kişiye özel takım elbise, özel dikim, ısmarlama takım elbise, damatlık, Gaziantep terzi, pantolon, gömlek, yelek"
+  },
+  "category": "Kurumsal",
+  "name": "Puro Cottone",
+  "domain": "purocottone.com",
+  "publishMode": "static",
+  "hosting": {
+    "hedefler": [
+      {
+        "repo": "yunusevgane/purocottoneWeb",
+        "cname": "purocottone.com",
+        "branch": "gh-pages"
+      }
+    ]
+  },
+  "cloudflare": {
+    "cfUser": "yunusevgane",
+    "workerName": "mx-purocottone",
+    "workerUrl": "https://mx-purocottone.yunusevgane.workers.dev",
+    "d1DatabaseId": "258d3564-e30e-4bfb-8d58-774445a17020",
+    "r2Bucket": "mx-purocottone-r2",
+    "status": "ready",
+    "lastPushAt": "2026-11-19T07:06:04.506Z",
+    "lastPullAt": "",
+    "lastFullPullAt": "",
+    "lastD1PullAt": "",
+    "bootD1PullError": "",
+    "remoteNewer": false,
+    "contentSeededAt": "2026-11-19T07:06:04.506Z",
+    "seedError": "",
+    "provisionStub": false,
+    "lastError": ""
+  },
+  "langs": {
+    "tr": true,
+    "en": false,
+    "ar": false,
+    "de": false,
+    "ru": false,
+    "es": false,
+    "fr": false,
+    "it": false,
+    "ja": false,
+    "zh": false,
+    "ko": false,
+    "pt": false
+  },
+  "logo": "logo.jpg",
+  "multi": false,
+  "city": "Gaziantep",
+  "country": "TR",
+  "theme_color": "#8A6A2E",
+  "social": {
+    "instagram": "https://www.instagram.com/purocottone/"
+  },
+  "font": {
+    "heading": "playfair-display",
+    "body": "inter"
+  },
+  "iletisim": {
+    "adres": "Batıkent Mahallesi, Adnan İnanıcı Cad. No: 25/C, Şehitkamil / Gaziantep",
+    "tel": "+905309741150",
+    "telGorunen": "0530 974 11 50",
+    "whatsapp": "https://wa.me/905309741150",
+    "whatsappNo": "905309741150",
+    "harita": "https://maps.google.com/?q=Bat%C4%B1kent%20Mahallesi%2C%20Adnan%20%C4%B0nan%C4%B1c%C4%B1%20Cad.%20No%3A%2025%2FC%2C%20%C5%9Eehitkamil%20%2F%20Gaziantep",
+    "instagram": "https://www.instagram.com/purocottone/"
+  },
+  "schema": {
+    "@type": "LocalBusiness",
+    "name": "Puro Cottone",
+    "telephone": "+905309741150",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Batıkent Mahallesi, Adnan İnanıcı Cad. No: 25/C",
+      "addressLocality": "Şehitkamil",
+      "addressRegion": "Gaziantep",
+      "addressCountry": "TR"
+    }
+  },
+  "phone": "+905309741150",
+  "address": "Batıkent Mahallesi, Adnan İnanıcı Cad. No: 25/C, Şehitkamil / Gaziantep",
+  "addressRegion": "Gaziantep",
+  "businessName": "Puro Cottone"
+}

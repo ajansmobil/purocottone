@@ -1,0 +1,36 @@
+{
+  "id": "0h7u4m5nx2",
+  "name": {
+    "tr": "Kaban"
+  },
+  "description": {
+    "tr": "Soğuk günlerde sıcak tutan, hareketi kısıtlamayan kaban — ölçünüze göre çizilen kalıpla dikilir."
+  },
+  "keyword": {
+    "tr": "kişiye özel kaban, özel dikim kaban, ısmarlama kaban, erkek kaban, Gaziantep terzi, Puro Cottone"
+  },
+  "path": "kaban",
+  "icon": "checkroom",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4",
+      "s5adim",
+      "g5akis",
+      "t1ct01"
+    ],
+    "footer": []
+  },
+  "index": 5,
+  "url": "",
+  "text": {
+    "tr": "<article><h2>Soğukta rahat, çizgisi bozulmayan kaban</h2><p>Kaban paltodan kısa ve daha rahat bir kesimdir; omuzdan kola, kol evinden bele geçişi hareket ederken bozulmayacak şekilde çizilir. Puro Cottone'da kabanınızı ölçünüze göre keser, provayla üzerinize oturturuz.</p><h3>Örnek modeller</h3><ul class=\"modulex-pd5-features\"><li><strong>Klasik kaban</strong> — kalın kumaştan, bel altı boyunda, günlük kullanım için.</li><li><strong>Kısa kaban</strong> — takım ya da kot üzerine, rahat hareket için.</li><li><strong>Astarlı kaban</strong> — soğuk günlere özel, yün ya da kapitone astarlı.</li></ul><h3>Detayda neye bakıyoruz?</h3><ul><li><strong>Omuz:</strong> ceketin üzerinden giyilse de omuz çizgisi korunur.</li><li><strong>Boy:</strong> bel altı ya da kalça hizası, hareket genişliğine göre.</li><li><strong>Astar:</strong> mevsime göre ince ya da kalın astar seçilir.</li><li><strong>Prova:</strong> kalın giysiyle birlikte yapılır, oran birlikte düzeltilir.</li></ul><h3>Kumaş ve fiyat</h3><p>Kumaş seçenekleri ve fiyat bilgisi: yakında. Ölçü randevusunda birlikte seçeriz.</p><h3>Kişiye özel akış</h3><p>Ölçü → Kalıp → Kesim → Prova → Teslim. Adımların ayrıntısı aşağıda.</p></article>"
+  },
+  "title": {
+    "tr": "Kişiye Özel Kaban"
+  },
+  "date": "2026-11-25T11:40:51.857Z",
+  "update": "2026-11-25T11:41:06.946Z"
+}

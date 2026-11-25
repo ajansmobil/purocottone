@@ -1,0 +1,40 @@
+{
+  "name": {
+    "tr": "Gömlek"
+  },
+  "status": "play",
+  "category": "",
+  "id": "gomlek",
+  "path": "gomlek",
+  "img": "kapak.jpg",
+  "bgimg": "1.jpg",
+  "index": 2,
+  "icon": "checkroom",
+  "description": {
+    "tr": "Yaka, omuz ve kol boyu ölçünüze göre; ceketle uyumlu manşet payıyla dikilir."
+  },
+  "keyword": {
+    "tr": "kişiye özel gömlek, özel dikim gömlek, ısmarlama gömlek, manşet, Gaziantep terzi, Puro Cottone"
+  },
+  "title": {
+    "tr": "Kişiye Özel Gömlek"
+  },
+  "text": {
+    "tr": "<article><h2>Ceketin altında doğru duran gömlek</h2><p>Gömlek, takımın en çok göze çarpan iki çizgisini taşır: yaka ve manşet. Kişiye özel gömlekte yaka boyun ölçünüze, kol boyu bilek kemiğinize göre belirlenir; ceket kolunun altından manşet doğru payla görünür.</p><h3>Örnek modeller</h3><ul class=\"modulex-pd5-features\"><li><strong>Takım altı gömlek</strong> — ceketle birlikte ölçülür, manşet ve yaka payı ceketin oranına göre ayarlanır.</li><li><strong>Damatlık gömleği</strong> — takımla aynı provada denenir.</li><li><strong>Günlük iş gömleği</strong> — ceketsiz giyildiğinde de omuz ve bel çizgisi temiz.</li></ul><h3>Detayda neye bakıyoruz?</h3><ul><li><strong>Yaka:</strong> boyna yaslanır; ceket yakasının üstünde kalır.</li><li><strong>Omuz:</strong> omuz dikişi omuz ucunda biter, kol sarkmaz.</li><li><strong>Manşet:</strong> kol boyu bilek kemiğinde durur; ceket kolunun altından görünecek pay bırakılır.</li><li><strong>Gövde:</strong> pantolon belinden taşmaz, kollar kalkınca yukarı toplanmaz.</li></ul><h3>Kumaş ve fiyat</h3><p>Kumaş seçenekleri ve fiyat bilgisi: yakında. Ölçü randevusunda birlikte seçeriz.</p><h3>Kişiye özel akış</h3><p>Ölçü → Kalıp → Kesim → Prova → Teslim. Adımların ayrıntısı aşağıda.</p></article>"
+  },
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4",
+      "ggo001",
+      "s5adim",
+      "g5akis",
+      "t1ct01"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "update": "2026-11-18",
+  "date": "2026-11-18",
+  "bg": "1.jpg"
+}

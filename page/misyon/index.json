@@ -1,0 +1,34 @@
+{
+  "name": {
+    "tr": "Misyon"
+  },
+  "status": "play",
+  "id": "misyon",
+  "path": "misyon",
+  "category": "",
+  "text": {
+    "tr": "<article><h2>Misyonumuz</h2>\n<p>Her müşterimize, bedenine ve duruşuna göre çizilmiş bir kalıpla dikilen; omzu düşmeyen, paçası yığılmayan, gün boyu rahat ettiren bir kıyafet teslim etmek.</p>\n<p>Hazır giyim ortalama bir beden için üretilir. Kol boyu uyduğunda omuz düşer, bel oturduğunda paça kısa kalır. Puro Cottone'un işi bu uzlaşmayı ortadan kaldırmaktır: takım elbise, pantolon, gömlek ve yeleği sizin ölçünüzden başlatırız.</p>\n<h3>Bunu nasıl yaparız?</h3>\n<ul><li><strong>Ölçü</strong> — ölçünüz hazır bir beden tablosundan değil, bedeninizden alınır.</li><li><strong>Kalıp</strong> — omuz, bel ve boy hatlarınıza göre kalıp sıfırdan çizilir.</li><li><strong>Kesim</strong> — kumaş yalnız o kalıpla kesilir.</li><li><strong>Prova</strong> — parça teyelliyken üzerinizde düzeltilir.</li><li><strong>Teslim</strong> — ortaya yalnız size oturan bir parça çıkar.</li></ul>\n<h3>Sizin için ne anlama gelir?</h3>\n<p>Aynaya baktığınızda kıyafetin üzerinizde emanet durmadığını görmeniz; düğün gecesi, iş toplantısı ya da özel bir gün boyunca kıyafetinizi değil, anı düşünmeniz. Ölçü randevusu için Instagram hesabımız <a href=\"https://www.instagram.com/purocottone/\" target=\"_blank\" rel=\"noopener noreferrer\">@purocottone</a> üzerinden DM ile yazabilirsiniz.</p></article>"
+  },
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4",
+      "t1ct01"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "index": 1,
+  "icon": "home",
+  "title": {
+    "tr": "Misyon"
+  },
+  "description": {
+    "tr": "Puro Cottone misyonu: bedeninize göre çizilen kalıpla, size oturan kıyafet."
+  },
+  "keyword": {
+    "tr": "Puro Cottone misyon, kişiye özel kalıp, ölçüye göre dikim"
+  },
+  "update": "2026-11-18T11:09:46.152Z",
+  "date": "2026-05-19"
+}

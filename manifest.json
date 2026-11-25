@@ -1,0 +1,29 @@
+{
+  "name": "Puro Cottone",
+  "short_name": "Puro Cottone",
+  "description": "Puro Cottone — Gaziantep'te kişiye özel terzihane. Takım elbise, pantolon, gömlek ve yelek ölçünüze göre çizilen kalıpla, provayla dikilir.",
+  "start_url": "/tr/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#8A6A2E",
+  "lang": "tr",
+  "icons": [
+    {
+      "src": "/img/logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/img/logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/img/logo.jpg",
+      "sizes": "any",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}

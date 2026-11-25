@@ -1,0 +1,40 @@
+{
+  "name": {
+    "tr": "Takım Elbise"
+  },
+  "status": "play",
+  "category": "",
+  "id": "takimelbise",
+  "path": "takim-elbise",
+  "img": "kapak.jpg",
+  "bgimg": "1.jpg",
+  "index": 0,
+  "icon": "checkroom",
+  "description": {
+    "tr": "Damatlık, iş ve özel gün takımları — ölçünüze göre çizilen kalıpla, provayla üzerinize oturtulur."
+  },
+  "keyword": {
+    "tr": "kişiye özel takım elbise, özel dikim takım elbise, ısmarlama takım, damatlık, Gaziantep terzi, Puro Cottone"
+  },
+  "title": {
+    "tr": "Kişiye Özel Takım Elbise"
+  },
+  "text": {
+    "tr": "<article><h2>Size ait bir kalıp</h2><p>Hazır takım ortalama bir beden için üretilir: kol boyu uyunca omuz düşer, bel oturunca paça kısa kalır. Puro Cottone'da takım elbisenizi omuz, bel ve boy hatlarınıza göre sıfırdan çizilen kalıpla keser, provayla üzerinize oturturuz.</p><h3>Örnek modeller</h3><ul class=\"modulex-pd5-features\"><li><strong>Damatlık</strong> — düğün fotoğraflarında yıllarca size eşlik edecek takım; prova için zaman bırakacak şekilde erken planlanır.</li><li><strong>İş takımı</strong> — toplantıda kolunuzu kaldırdığınızda yukarı toplanmayan, omuz çizgisi temiz kalan ceket.</li><li><strong>Özel gün takımı</strong> — saatlerce ayakta kalacağınız gece için nefes alan kumaş.</li><li><strong>Üç parça</strong> — ceket ve pantolona aynı kumaştan yelek eklenir.</li></ul><h3>Detayda neye bakıyoruz?</h3><ul><li><strong>Omuz:</strong> ceketin omzu yanlışsa gerisi kurtarılamaz; omuz dikişi omuz ucunuzda biter.</li><li><strong>Kol boyu:</strong> ceket kolu bilek kemiğinde durur, altından gömlek manşeti görünür.</li><li><strong>Boy ve cep dengesi:</strong> ceket boyu kalıpta belirlenir; sonradan kısaltmak cep ve düğme oranını bozar.</li><li><strong>Düğme:</strong> ilk provada düğme olmaz — önce oturuş düzeltilir, düğme sonra gelir. İki düğmeli cekette alt düğme iliklenmez.</li></ul><h3>Kumaş</h3><p>Nefes alan premium kumaş seçeneklerini ölçü randevusunda birlikte seçeriz. Kumaş listesi ve fiyat bilgisi: yakında.</p><h3>Kişiye özel akış</h3><p>Ölçü → Kalıp → Kesim → Prova → Teslim. Adımların ayrıntısı aşağıda.</p></article>"
+  },
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4",
+      "gte001",
+      "s5adim",
+      "g5akis",
+      "t1ct01"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "update": "2026-11-18",
+  "date": "2026-11-18",
+  "bg": "1.jpg"
+}

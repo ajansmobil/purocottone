@@ -1,0 +1,35 @@
+{
+  "name": {
+    "tr": "Hakkımızda"
+  },
+  "status": "play",
+  "id": "hakkimizda",
+  "path": "hakkimizda",
+  "category": "",
+  "text": {
+    "tr": "<article><h2>Puro Cottone</h2><p>Puro Cottone, Gaziantep'te kişiye özel dikim yapan bir terzihanedir. Takım elbise, pantolon, gömlek ve yeleği hazır bedenden değil, sizin ölçünüzden üretiriz.</p><h3>Neden kişiye özel?</h3><p>Hazır giyim markaları kıyafeti sizin için değil, ortalama bir beden için üretir. Kol boyu uyunca omuz düşer, bel oturunca paça kısa kalır. Biz omuz, bel ve boy hatlarınıza göre kalıbı sıfırdan çizer, provayla üzerinize oturturuz.</p><h3>Nasıl çalışırız?</h3><ul><li>Ölçü — ölçünüz bedeninizden alınır.</li><li>Kalıp — kalıp size göre sıfırdan çizilir.</li><li>Kesim — kumaş o kalıpla kesilir.</li><li>Prova — provada üzerinizde düzeltilir.</li><li>Teslim — parça yalnız size oturur.</li></ul><h3>Ne dikiyoruz?</h3><p>Damatlık, iş ve özel gün takımları; kişiye özel pantolon, gömlek ve yelek. Nefes alan premium kumaş seçenekleriyle gün boyu rahat.</p><p>Marka hikâyemiz ve atölye bilgilerimiz yakında bu sayfada.</p></article>"
+  },
+  "desing": {
+    "header": [],
+    "body": [
+      "t1in01",
+      "tp5jo4",
+      "t1ct01"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "index": 0,
+  "icon": "home",
+  "title": {
+    "tr": "Hakkımızda"
+  },
+  "description": {
+    "tr": "Puro Cottone, Gaziantep'te takım elbise, pantolon, gömlek ve yeleği ölçünüze göre diken kişiye özel terzihane."
+  },
+  "keyword": {
+    "tr": "Puro Cottone hakkında, Gaziantep terzihane, kişiye özel dikim, ısmarlama takım elbise"
+  },
+  "update": "2026-11-18T11:09:46.144Z",
+  "date": "2026-05-19"
+}

@@ -1,0 +1,1135 @@
+{
+  "data": [
+    {
+      "index": 0,
+      "name": "Menu",
+      "path": "menu-2",
+      "local": "header",
+      "category": "menu",
+      "id": "vey1el",
+      "desing": {
+        "bgcolor": "#0B0B0B",
+        "color": "#FFFFFF",
+        "activebgcolor": "#C9A45C",
+        "activecolor": "#111111",
+        "height": "100px",
+        "ariaToggle": {
+          "tr": "Menüyü aç/kapat",
+          "en": "Toggle menu",
+          "ar": "تبديل القائمة"
+        },
+        "ariaClose": {
+          "tr": "Menüyü kapat",
+          "en": "Close menu"
+        },
+        "logobg": "transparent",
+        "logoborder": "none",
+        "logoradius": "0",
+        "logopad": "0",
+        "logopadmobil": "0",
+        "logomaxh": "100px",
+        "logoimg": "",
+        "tekSatir": "",
+        "langcolor": "currentColor",
+        "langbg": "transparent",
+        "logoDark": "",
+        "duzen": "",
+        "ctaText": {
+          "tr": "0530 974 11 50"
+        },
+        "ctaHref": "tel:+905309741150",
+        "temaDugmesi": "",
+        "temaAnahtar": ""
+      },
+      "version": "1.0.0",
+      "icon": "menu"
+    },
+    {
+      "name": "Slider",
+      "path": "slider",
+      "local": "header",
+      "category": "slider",
+      "id": "k4t90c",
+      "data": [],
+      "desing": {
+        "delay": 3000,
+        "margin": "0px 0 0 0"
+      },
+      "version": "1.0.0",
+      "icon": "view_carousel",
+      "index": 1
+    },
+    {
+      "name": "İletişim",
+      "path": "contact-3",
+      "local": "body",
+      "category": "contact",
+      "id": "fhxr98",
+      "desing": {
+        "color": "#111111",
+        "name": {
+          "tr": "Bize Ulaşın"
+        },
+        "margin": "30px 0px 30px 0px",
+        "stil": "",
+        "linkcolor": "#1B3A6B"
+      },
+      "data": [
+        {
+          "icon": "photo_camera",
+          "text": "Instagram: @purocottone — ölçü randevusu için DM'den yazın",
+          "url": "https://www.instagram.com/purocottone/"
+        },
+        {
+          "icon": "forum",
+          "text": "WhatsApp: 0530 974 11 50",
+          "url": "https://wa.me/905309741150"
+        },
+        {
+          "icon": "call",
+          "text": "Telefon: 0530 974 11 50",
+          "url": "tel:+905309741150"
+        },
+        {
+          "icon": "storefront",
+          "text": "Atölye: Batıkent Mahallesi, Adnan İnanıcı Cad. No: 25/C, Şehitkamil / Gaziantep",
+          "url": "https://maps.google.com/?q=Bat%C4%B1kent%20Mahallesi%2C%20Adnan%20%C4%B0nan%C4%B1c%C4%B1%20Cad.%20No%3A%2025%2FC%2C%20%C5%9Eehitkamil%20%2F%20Gaziantep"
+        },
+        {
+          "icon": "schedule",
+          "text": "Çalışma saatleri: yakında"
+        }
+      ],
+      "version": "1.0.0",
+      "icon": "contact_mail",
+      "index": 2
+    },
+    {
+      "name": "Maps",
+      "path": "map",
+      "local": "body",
+      "category": "map",
+      "id": "bi4hta",
+      "desing": {
+        "height": "200",
+        "opacity": "0.5",
+        "backgroundcolor": "#ffffff",
+        "color": "#111111",
+        "img": "map.png",
+        "externalUrl": "",
+        "stil": "",
+        "address": "",
+        "phone": "",
+        "email": "",
+        "badgeText": {
+          "tr": "Konumumuz",
+          "en": "Our Location",
+          "ar": "موقعنا"
+        },
+        "infoTitle": {
+          "tr": "Bize Ulaşın",
+          "en": "Contact Us",
+          "ar": "اتصل بنا"
+        },
+        "directions": {
+          "tr": "Yol tarifi al",
+          "en": "Get directions",
+          "ar": "احصل على الاتجاهات"
+        }
+      },
+      "version": "1.0.0",
+      "icon": "map",
+      "index": 3
+    },
+    {
+      "index": 4,
+      "name": "Page Desing",
+      "path": "page-desing-5",
+      "local": "body",
+      "category": "page",
+      "id": "tp5jo4",
+      "desing": {
+        "stil": "",
+        "height": "220",
+        "opacity": "0.45",
+        "font-size": "36",
+        "backgroundcolor": "#0B0B0B",
+        "menu-active": "#8A6A2E",
+        "activetext": "#FFFFFF",
+        "textcolor": "#FFFFFF",
+        "bgcolor": "#FFFFFF",
+        "border_radius": "8px",
+        "card_shadow": "0 10px 28px rgba(0, 0, 0, 0.08)",
+        "color": "#111111",
+        "colortitle": "#111111",
+        "coloractive": "#6E5424",
+        "contact_path": "iletisim",
+        "whatsapp": "905309741150",
+        "ui": {
+          "tr": {
+            "home": "Anasayfa",
+            "products": "Ürünler",
+            "dimensions": "Ölçüler",
+            "dimNote": "Her parça kişiye özel ölçüyle dikilir.",
+            "quote": "Ölçü Randevusu",
+            "whatsapp": "WhatsApp",
+            "prev": "Önceki",
+            "next": "Sonraki"
+          }
+        },
+        "noTitle": {
+          "tr": "Puro Cottone"
+        },
+        "productNavAria": {
+          "tr": "Ürün gezintisi"
+        }
+      },
+      "version": "1.0.0",
+      "icon": "web"
+    },
+    {
+      "name": "Footer 1",
+      "path": "footer-1",
+      "local": "footer",
+      "category": "footer",
+      "id": "txt39m",
+      "desing": {
+        "bgcolor": "#0B0B0B",
+        "color": "#FFFFFF",
+        "img": "logo.jpg",
+        "imgwidth": "160px",
+        "stil": "",
+        "showlang": true,
+        "showsocial": true,
+        "social": [],
+        "langcolor": "",
+        "phone": "+905309741150",
+        "iletisim": [
+          {
+            "icon": "storefront",
+            "text": {
+              "tr": "Batıkent Mahallesi, Adnan İnanıcı Cad. No: 25/C, Şehitkamil / Gaziantep"
+            },
+            "url": "https://maps.google.com/?q=Bat%C4%B1kent%20Mahallesi%2C%20Adnan%20%C4%B0nan%C4%B1c%C4%B1%20Cad.%20No%3A%2025%2FC%2C%20%C5%9Eehitkamil%20%2F%20Gaziantep"
+          },
+          {
+            "icon": "call",
+            "text": {
+              "tr": "Telefon: 0530 974 11 50"
+            },
+            "url": "tel:+905309741150"
+          },
+          {
+            "icon": "forum",
+            "text": {
+              "tr": "WhatsApp: 0530 974 11 50"
+            },
+            "url": "https://wa.me/905309741150"
+          }
+        ]
+      },
+      "data": [],
+      "version": "1.0.0",
+      "icon": "web_asset",
+      "index": 5
+    },
+    {
+      "id": "t1ls01",
+      "name": "Ana Sayfa Liste",
+      "path": "page-list",
+      "local": "body",
+      "category": "page-list",
+      "version": "1.0.0",
+      "icon": "grid_view",
+      "desing": {
+        "page": "page",
+        "size": 4,
+        "category": "",
+        "aspect-ratio": "1 / 1",
+        "eyebrow": {
+          "tr": "Puro Cottone"
+        },
+        "sectionTitle": {
+          "tr": "Kişiye özel dikim"
+        },
+        "sectionSubtitle": {
+          "tr": "Ölçünüze göre çizilen kalıpla dikilen takım elbise, pantolon, gömlek ve yelek."
+        },
+        "ctaLabel": {
+          "tr": "Tümünü gör"
+        },
+        "showAllProducts": false,
+        "margin": "20px 0px 20px 0px",
+        "bgcolor": "transparent",
+        "cardbg": "#ffffff",
+        "titlecolor": "#111827",
+        "textcolor": "#4b5563",
+        "bordercolor": "rgba(17, 24, 39, 0.1)",
+        "radius": "14px",
+        "accent": "#1e3a5f"
+      },
+      "index": 6
+    },
+    {
+      "id": "t1in01",
+      "name": "Tanitim",
+      "path": "module-1",
+      "local": "body",
+      "category": "module",
+      "version": "1.1.0",
+      "icon": "business",
+      "desing": {
+        "name": {
+          "tr": "Gaziantep'te kişiye özel terzihane"
+        },
+        "description": {
+          "tr": "Hazır giyim ortalama bir beden için üretilir; Puro Cottone ise sizin için keser. Takım elbise, pantolon, gömlek ve yeleği ölçünüze göre çizilen kalıpla, provayla üzerinize oturtarak dikiyoruz."
+        },
+        "name2": {
+          "tr": "Ölçüye özel kalıp"
+        },
+        "spot2": {
+          "tr": "Omuz, bel ve boy hatlarınıza göre sıfırdan çizilen kalıp duruşunuzu baştan değiştirir."
+        },
+        "icon2": "straighten",
+        "name3": {
+          "tr": "Nefes alan kumaş"
+        },
+        "spot3": {
+          "tr": "Premium kumaş seçenekleri; sabahtan akşama, düğün gecesi boyunca rahat."
+        },
+        "icon3": "checkroom",
+        "img": "index.jpg",
+        "bgcolor": "#0B0B0B",
+        "fontcolor": "#FFFFFF",
+        "margintop": "0",
+        "marginbotton": "20",
+        "title": {
+          "tr": "Puro Cottone atölyesi"
+        },
+        "stil": ""
+      },
+      "index": 7
+    },
+    {
+      "id": "t1st01",
+      "name": "İstatistik",
+      "path": "stats-1",
+      "local": "body",
+      "category": "stats",
+      "version": "1.0.0",
+      "icon": "monitoring",
+      "desing": {
+        "max": "1200px",
+        "gradient": "linear-gradient(135deg, #0B0B0B 0%, #1C1A17 100%)",
+        "numbercolor": "#C9A45C",
+        "labelcolor": "#EDE6DA",
+        "stil": "",
+        "iconsize": "56px",
+        "iconbox": "88px"
+      },
+      "data": [],
+      "index": 8
+    },
+    {
+      "id": "t1ct01",
+      "name": "CTA",
+      "path": "cta-1",
+      "local": "body",
+      "category": "cta",
+      "version": "1.1.0",
+      "icon": "campaign",
+      "desing": {
+        "max": "1200px",
+        "gradient": "linear-gradient(135deg, #0B0B0B 0%, #1C1A17 100%)",
+        "btnbg": "#C9A45C",
+        "btncolor": "#111111",
+        "title": {
+          "tr": "Size ait bir kalıp"
+        },
+        "description": {
+          "tr": "Ölçü randevusu için bize yazın; ölçüden teslime her adımı birlikte planlayalım."
+        },
+        "btn1Text": {
+          "tr": "Ölçü Randevusu"
+        },
+        "btn1Url": "iletisim",
+        "btn2Text": {
+          "tr": "Ürünler"
+        },
+        "btn2Url": "urunler",
+        "stil": ""
+      },
+      "index": 9
+    },
+    {
+      "id": "t1plpr",
+      "name": "Ürünler Liste",
+      "path": "page-list",
+      "local": "body",
+      "category": "page-list",
+      "version": "1.0.0",
+      "icon": "grid_view",
+      "desing": {
+        "page": "products",
+        "size": 4,
+        "category": "",
+        "aspect-ratio": "3 / 4",
+        "eyebrow": {
+          "tr": "Kişiye özel üretim"
+        },
+        "sectionTitle": {
+          "tr": "Takım elbise · Pantolon · Gömlek · Yelek"
+        },
+        "sectionSubtitle": {
+          "tr": "Her parça ölçünüzle başlar, provada üzerinizde düzeltilir."
+        },
+        "ctaLabel": {
+          "tr": "İncele"
+        },
+        "showAllProducts": false,
+        "margin": "20px 0px 20px 0px",
+        "bgcolor": "transparent",
+        "cardbg": "#ffffff",
+        "titlecolor": "#111827",
+        "textcolor": "#4b5563",
+        "bordercolor": "rgba(17, 24, 39, 0.1)",
+        "radius": "14px",
+        "accent": "#1e3a5f"
+      },
+      "index": 10
+    },
+    {
+      "id": "g4vtrn",
+      "name": "Ürün Vitrini",
+      "path": "galeri-kare-izgara",
+      "local": "body",
+      "category": "galeri",
+      "version": "1.0.0",
+      "icon": "grid_view",
+      "desing": {
+        "max": "1200px",
+        "ust": {
+          "tr": "Kişiye özel üretim"
+        },
+        "baslik": {
+          "tr": "Ne dikiyoruz?"
+        },
+        "metin": {
+          "tr": "Dört parça, tek ilke: ölçünüzle başlar, provada üzerinizde düzeltilir."
+        },
+        "bosluk": "clamp(56px, 8vw, 104px)",
+        "yuvarlak": "18px",
+        "tumu": "",
+        "bg": "var(--mx-site-bg, #ffffff)",
+        "text": "var(--mx-site-text, #111318)",
+        "muted": "color-mix(in srgb, var(--mx-site-text, #111318) 68%, var(--mx-site-bg, #ffffff))",
+        "kartBg": "var(--mx-site-surface, #f6f7f9)",
+        "cizgi": "color-mix(in srgb, var(--mx-site-text, #111318) 12%, transparent)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentInk": "color-mix(in srgb, var(--mx-site-primary, #2563eb) 70%, var(--mx-site-text, #111318))",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "vurguBg": "var(--mx-site-primary, #2563eb)",
+        "vurguText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "color": "var(--mx-site-text, #111318)"
+      },
+      "data": [
+        {
+          "img": "vitrin/takim-elbise.jpg",
+          "katAd": {
+            "tr": "Damatlık · iş · özel gün"
+          },
+          "baslik": {
+            "tr": "Takım Elbise"
+          },
+          "url": "takim-elbise"
+        },
+        {
+          "img": "vitrin/pantolon.jpg",
+          "katAd": {
+            "tr": "Paça · bel · düşüş"
+          },
+          "baslik": {
+            "tr": "Pantolon"
+          },
+          "url": "pantolon"
+        },
+        {
+          "img": "vitrin/gomlek.jpg",
+          "katAd": {
+            "tr": "Yaka · manşet · kol"
+          },
+          "baslik": {
+            "tr": "Gömlek"
+          },
+          "url": "gomlek"
+        },
+        {
+          "img": "vitrin/yelek.jpg",
+          "katAd": {
+            "tr": "Üç parça takımın tamamlayıcısı"
+          },
+          "baslik": {
+            "tr": "Yelek"
+          },
+          "url": "yelek"
+        }
+      ],
+      "index": 11
+    },
+    {
+      "id": "s5adim",
+      "name": "Kişiye Özel Akış",
+      "path": "surec-adimlar",
+      "local": "body",
+      "category": "surec",
+      "version": "1.0.0",
+      "icon": "timeline",
+      "desing": {
+        "stil": "kartli",
+        "max": "1200px",
+        "accent": "#8A6A2E",
+        "accentText": "#FFFFFF",
+        "eyebrow": {
+          "tr": "Kişiye özel akış"
+        },
+        "title": {
+          "tr": "Ölçüden teslime"
+        },
+        "description": {
+          "tr": "Hazır takım rafta bekler. Sizinki burada başlar."
+        },
+        "stepLabel": {
+          "tr": "Adım {n}"
+        },
+        "listLabel": {
+          "tr": "Kişiye özel dikim adımları"
+        },
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "textcolor": "var(--mx-site-text, #1b1b1b)",
+        "mutedcolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "surface2": "var(--mx-site-surface-2, #ececea)",
+        "bordercolor": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 16%, transparent)",
+        "radius": "16px"
+      },
+      "data": [
+        {
+          "ikon": "straighten",
+          "baslik": {
+            "tr": "Ölçü"
+          },
+          "metin": {
+            "tr": "Ölçünüz bedeninizden alınır; omuz eğimi, duruş ve kol boyu tek tek not edilir."
+          }
+        },
+        {
+          "ikon": "architecture",
+          "baslik": {
+            "tr": "Kalıp"
+          },
+          "metin": {
+            "tr": "Kalıp size göre sıfırdan çizilir; standart beden kalıbı kullanılmaz."
+          }
+        },
+        {
+          "ikon": "content_cut",
+          "baslik": {
+            "tr": "Kesim"
+          },
+          "metin": {
+            "tr": "Seçtiğiniz kumaş o kalıpla kesilir."
+          }
+        },
+        {
+          "ikon": "accessibility_new",
+          "baslik": {
+            "tr": "Prova"
+          },
+          "metin": {
+            "tr": "Teyelli provada parça üzerinizde düzeltilir; düğme ve son dikiş provadan sonra gelir."
+          }
+        },
+        {
+          "ikon": "verified",
+          "baslik": {
+            "tr": "Teslim"
+          },
+          "metin": {
+            "tr": "Ve parça yalnız size oturur."
+          }
+        }
+      ],
+      "index": 12
+    },
+    {
+      "id": "g5akis",
+      "name": "Atölyeden Kareler",
+      "path": "galeri-kare-izgara",
+      "local": "body",
+      "category": "galeri",
+      "version": "1.0.0",
+      "icon": "grid_view",
+      "desing": {
+        "max": "1200px",
+        "ust": {
+          "tr": "Atölye"
+        },
+        "baslik": {
+          "tr": "Bir parçanın yolculuğu"
+        },
+        "metin": {
+          "tr": "Ölçü, kalıp, kesim, prova ve teslim — her adım atölyemizde, sizinle."
+        },
+        "bosluk": "clamp(56px, 8vw, 104px)",
+        "yuvarlak": "18px",
+        "tumu": "",
+        "bg": "var(--mx-site-bg, #ffffff)",
+        "text": "var(--mx-site-text, #111318)",
+        "muted": "color-mix(in srgb, var(--mx-site-text, #111318) 68%, var(--mx-site-bg, #ffffff))",
+        "kartBg": "var(--mx-site-surface, #f6f7f9)",
+        "cizgi": "color-mix(in srgb, var(--mx-site-text, #111318) 12%, transparent)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentInk": "color-mix(in srgb, var(--mx-site-primary, #2563eb) 70%, var(--mx-site-text, #111318))",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "vurguBg": "var(--mx-site-primary, #2563eb)",
+        "vurguText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "color": "var(--mx-site-text, #111318)"
+      },
+      "data": [
+        {
+          "img": "akis/1-olcu.jpg",
+          "katAd": {
+            "tr": "01"
+          },
+          "baslik": {
+            "tr": "Ölçü"
+          }
+        },
+        {
+          "img": "akis/2-kalip.jpg",
+          "katAd": {
+            "tr": "02"
+          },
+          "baslik": {
+            "tr": "Kalıp"
+          }
+        },
+        {
+          "img": "akis/3-kesim.jpg",
+          "katAd": {
+            "tr": "03"
+          },
+          "baslik": {
+            "tr": "Kesim"
+          }
+        },
+        {
+          "img": "akis/4-prova.jpg",
+          "katAd": {
+            "tr": "04"
+          },
+          "baslik": {
+            "tr": "Prova"
+          }
+        },
+        {
+          "img": "akis/5-teslim.jpg",
+          "katAd": {
+            "tr": "05"
+          },
+          "baslik": {
+            "tr": "Teslim"
+          }
+        }
+      ],
+      "index": 13
+    },
+    {
+      "id": "gsosyl",
+      "name": "Instagram Vitrini",
+      "path": "galeri-kare-izgara",
+      "local": "body",
+      "category": "galeri",
+      "version": "1.0.0",
+      "icon": "grid_view",
+      "desing": {
+        "max": "1200px",
+        "ust": {
+          "tr": "Instagram · @purocottone"
+        },
+        "baslik": {
+          "tr": "Videolarımızdan kareler"
+        },
+        "metin": {
+          "tr": "Terzilik ipuçları ve atölyeden kareler Instagram'da. Paylaşırken #purocottone etiketini kullanın."
+        },
+        "bosluk": "clamp(56px, 8vw, 104px)",
+        "yuvarlak": "18px",
+        "tumu": "",
+        "bg": "var(--mx-site-bg, #ffffff)",
+        "text": "var(--mx-site-text, #111318)",
+        "muted": "color-mix(in srgb, var(--mx-site-text, #111318) 68%, var(--mx-site-bg, #ffffff))",
+        "kartBg": "var(--mx-site-surface, #f6f7f9)",
+        "cizgi": "color-mix(in srgb, var(--mx-site-text, #111318) 12%, transparent)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentInk": "color-mix(in srgb, var(--mx-site-primary, #2563eb) 70%, var(--mx-site-text, #111318))",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "vurguBg": "var(--mx-site-primary, #2563eb)",
+        "vurguText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "color": "var(--mx-site-text, #111318)"
+      },
+      "data": [
+        {
+          "img": "sosyal/1-kesim.jpg",
+          "katAd": {
+            "tr": "Ölçüden teslime"
+          },
+          "baslik": {
+            "tr": "Kumaş o kalıpla kesilir"
+          },
+          "url": "https://www.instagram.com/purocottone/"
+        },
+        {
+          "img": "sosyal/2-paca.jpg",
+          "katAd": {
+            "tr": "Paça boyu"
+          },
+          "baslik": {
+            "tr": "Tek kırılma, temiz çizgi"
+          },
+          "url": "https://www.instagram.com/purocottone/"
+        },
+        {
+          "img": "sosyal/3-prova.jpg",
+          "katAd": {
+            "tr": "İlk prova"
+          },
+          "baslik": {
+            "tr": "Provada üzerinizde düzeltilir"
+          },
+          "url": "https://www.instagram.com/purocottone/"
+        },
+        {
+          "img": "sosyal/4-yaka.jpg",
+          "katAd": {
+            "tr": "Duruş farkı"
+          },
+          "baslik": {
+            "tr": "Oturan yaka"
+          },
+          "url": "https://www.instagram.com/purocottone/"
+        }
+      ],
+      "index": 14
+    },
+    {
+      "id": "ctaig1",
+      "name": "Instagram CTA",
+      "path": "cta-1",
+      "local": "body",
+      "category": "cta",
+      "version": "1.1.0",
+      "icon": "campaign",
+      "desing": {
+        "max": "1200px",
+        "gradient": "linear-gradient(135deg, #0B0B0B 0%, #1C1A17 100%)",
+        "btnbg": "#C9A45C",
+        "btncolor": "#111111",
+        "title": {
+          "tr": "Bizi Instagram'da takip edin"
+        },
+        "description": {
+          "tr": "@purocottone — ölçü randevusu için DM'den yazın. Etiketler: #purocottone #gaziantep"
+        },
+        "btn1Text": {
+          "tr": "Instagram'da Aç"
+        },
+        "btn1Url": "https://www.instagram.com/purocottone/",
+        "btn2Text": {
+          "tr": "İletişim"
+        },
+        "btn2Url": "iletisim",
+        "stil": ""
+      },
+      "index": 15
+    },
+    {
+      "id": "gte001",
+      "name": "Takım Elbise Örnekleri",
+      "path": "galeri-kare-izgara",
+      "local": "body",
+      "category": "galeri",
+      "version": "1.0.0",
+      "icon": "grid_view",
+      "desing": {
+        "max": "1200px",
+        "ust": {
+          "tr": "Ürün detayı"
+        },
+        "baslik": {
+          "tr": "Takım elbisede neye bakıyoruz?"
+        },
+        "bosluk": "clamp(56px, 8vw, 104px)",
+        "yuvarlak": "18px",
+        "metin": "",
+        "tumu": "",
+        "bg": "var(--mx-site-bg, #ffffff)",
+        "text": "var(--mx-site-text, #111318)",
+        "muted": "color-mix(in srgb, var(--mx-site-text, #111318) 68%, var(--mx-site-bg, #ffffff))",
+        "kartBg": "var(--mx-site-surface, #f6f7f9)",
+        "cizgi": "color-mix(in srgb, var(--mx-site-text, #111318) 12%, transparent)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentInk": "color-mix(in srgb, var(--mx-site-primary, #2563eb) 70%, var(--mx-site-text, #111318))",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "vurguBg": "var(--mx-site-primary, #2563eb)",
+        "vurguText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "color": "var(--mx-site-text, #111318)"
+      },
+      "data": [
+        {
+          "img": "ornek/te-1-prova.jpg",
+          "katAd": {
+            "tr": "Teyelli prova"
+          },
+          "baslik": {
+            "tr": "Ceket üzerinizde oturtulur"
+          }
+        },
+        {
+          "img": "ornek/te-2-yaka.jpg",
+          "katAd": {
+            "tr": "Yaka ve ense"
+          },
+          "baslik": {
+            "tr": "Yaka boyna yaslanır, açılmaz"
+          }
+        },
+        {
+          "img": "ornek/te-3-teslim.jpg",
+          "katAd": {
+            "tr": "Teslim"
+          },
+          "baslik": {
+            "tr": "Omuz çizgisi temiz, düğme rahat"
+          }
+        }
+      ],
+      "index": 16
+    },
+    {
+      "id": "gpa001",
+      "name": "Pantolon Örnekleri",
+      "path": "galeri-kare-izgara",
+      "local": "body",
+      "category": "galeri",
+      "version": "1.0.0",
+      "icon": "grid_view",
+      "desing": {
+        "max": "1200px",
+        "ust": {
+          "tr": "Ürün detayı"
+        },
+        "baslik": {
+          "tr": "Pantolonda neye bakıyoruz?"
+        },
+        "bosluk": "clamp(56px, 8vw, 104px)",
+        "yuvarlak": "18px",
+        "metin": "",
+        "tumu": "",
+        "bg": "var(--mx-site-bg, #ffffff)",
+        "text": "var(--mx-site-text, #111318)",
+        "muted": "color-mix(in srgb, var(--mx-site-text, #111318) 68%, var(--mx-site-bg, #ffffff))",
+        "kartBg": "var(--mx-site-surface, #f6f7f9)",
+        "cizgi": "color-mix(in srgb, var(--mx-site-text, #111318) 12%, transparent)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentInk": "color-mix(in srgb, var(--mx-site-primary, #2563eb) 70%, var(--mx-site-text, #111318))",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "vurguBg": "var(--mx-site-primary, #2563eb)",
+        "vurguText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "color": "var(--mx-site-text, #111318)"
+      },
+      "data": [
+        {
+          "img": "ornek/pa-1-kirilma.jpg",
+          "katAd": {
+            "tr": "Paça boyu"
+          },
+          "baslik": {
+            "tr": "Önde tek kırılma, arkada düz düşüş"
+          }
+        },
+        {
+          "img": "ornek/pa-2-paca.jpg",
+          "katAd": {
+            "tr": "Ayakkabıya göre"
+          },
+          "baslik": {
+            "tr": "Paça, giydiğiniz ayakkabıyla iğnelenir"
+          }
+        }
+      ],
+      "index": 17
+    },
+    {
+      "id": "ggo001",
+      "name": "Gömlek Örnekleri",
+      "path": "galeri-kare-izgara",
+      "local": "body",
+      "category": "galeri",
+      "version": "1.0.0",
+      "icon": "grid_view",
+      "desing": {
+        "max": "1200px",
+        "ust": {
+          "tr": "Ürün detayı"
+        },
+        "baslik": {
+          "tr": "Gömlekte neye bakıyoruz?"
+        },
+        "bosluk": "clamp(56px, 8vw, 104px)",
+        "yuvarlak": "18px",
+        "metin": "",
+        "tumu": "",
+        "bg": "var(--mx-site-bg, #ffffff)",
+        "text": "var(--mx-site-text, #111318)",
+        "muted": "color-mix(in srgb, var(--mx-site-text, #111318) 68%, var(--mx-site-bg, #ffffff))",
+        "kartBg": "var(--mx-site-surface, #f6f7f9)",
+        "cizgi": "color-mix(in srgb, var(--mx-site-text, #111318) 12%, transparent)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentInk": "color-mix(in srgb, var(--mx-site-primary, #2563eb) 70%, var(--mx-site-text, #111318))",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "vurguBg": "var(--mx-site-primary, #2563eb)",
+        "vurguText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "color": "var(--mx-site-text, #111318)"
+      },
+      "data": [
+        {
+          "img": "ornek/go-1-manset.jpg",
+          "katAd": {
+            "tr": "Manşet payı"
+          },
+          "baslik": {
+            "tr": "Ceket kolunun altından manşet görünür"
+          }
+        },
+        {
+          "img": "ornek/go-2-olcu.jpg",
+          "katAd": {
+            "tr": "Omuz ölçüsü"
+          },
+          "baslik": {
+            "tr": "Omuz dikişi omuz ucunda biter"
+          }
+        },
+        {
+          "img": "ornek/go-3-yaka.jpg",
+          "katAd": {
+            "tr": "Yaka payı"
+          },
+          "baslik": {
+            "tr": "Gömlek yakası ceketin üstünde kalır"
+          }
+        }
+      ],
+      "index": 18
+    },
+    {
+      "id": "gye001",
+      "name": "Yelek Örnekleri",
+      "path": "galeri-kare-izgara",
+      "local": "body",
+      "category": "galeri",
+      "version": "1.0.0",
+      "icon": "grid_view",
+      "desing": {
+        "max": "1200px",
+        "ust": {
+          "tr": "Ürün detayı"
+        },
+        "baslik": {
+          "tr": "Yelekte neye bakıyoruz?"
+        },
+        "bosluk": "clamp(56px, 8vw, 104px)",
+        "yuvarlak": "18px",
+        "metin": "",
+        "tumu": "",
+        "bg": "var(--mx-site-bg, #ffffff)",
+        "text": "var(--mx-site-text, #111318)",
+        "muted": "color-mix(in srgb, var(--mx-site-text, #111318) 68%, var(--mx-site-bg, #ffffff))",
+        "kartBg": "var(--mx-site-surface, #f6f7f9)",
+        "cizgi": "color-mix(in srgb, var(--mx-site-text, #111318) 12%, transparent)",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentInk": "color-mix(in srgb, var(--mx-site-primary, #2563eb) 70%, var(--mx-site-text, #111318))",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "vurguBg": "var(--mx-site-primary, #2563eb)",
+        "vurguText": "var(--mx-site-primary-contrast, #ffffff)",
+        "bgcolor": "var(--mx-site-bg, #ffffff)",
+        "color": "var(--mx-site-text, #111318)"
+      },
+      "data": [
+        {
+          "img": "ornek/ye-1-yelek.jpg",
+          "katAd": {
+            "tr": "Ön hat"
+          },
+          "baslik": {
+            "tr": "Düğme dizisi ve cep kenarı gövdeye düz oturur"
+          }
+        },
+        {
+          "img": "ornek/ye-2-ucparca.jpg",
+          "katAd": {
+            "tr": "Arka ayar"
+          },
+          "baslik": {
+            "tr": "Ayar kemeri yeleği bele oturtur, ceketin altında kat yapmaz"
+          }
+        }
+      ],
+      "index": 19
+    },
+    {
+      "id": "wapc01",
+      "name": "WhatsApp",
+      "path": "whatsapp",
+      "local": "footer",
+      "category": "contact",
+      "version": "1.0.0",
+      "icon": "chat",
+      "desing": {
+        "number": "905309741150",
+        "name": {
+          "tr": "WhatsApp"
+        },
+        "position": "fixed",
+        "bottom": "30px",
+        "color": "#25D366",
+        "z_index": 10000,
+        "responsive": true,
+        "cerezKacin": "1",
+        "link": "https://wa.me/905309741150"
+      },
+      "data": [],
+      "index": 20
+    },
+    {
+      "name": "Page Desing 2",
+      "desing": {
+        "height": "100",
+        "opacity": "0.5",
+        "font-size": "50",
+        "backgroundcolor": "#000",
+        "textcolor": "#fff",
+        "category": "page"
+      },
+      "category": "page",
+      "description": "Page Desing 2 modülü. 2 farklı web projesinde kullanılmaktadır. İçerik sunumu ve görsel düzenleme için tasarlanmıştır.",
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "np16qo",
+      "path": "page-text",
+      "local": "body",
+      "data": [],
+      "index": 21
+    },
+    {
+      "name": "Açılış (hero)",
+      "description": {
+        "tr": "İki sütunlu hero: solda üst etiket, h1, paragraf, iki CTA (dolgu + çerçeve) ve güven satırı (data[]: ikon + metin); sağda görsel, arkasında token renkli organik şekil ve yüzen istatistik rozeti. desing.stil: blob | kare-kesit | cerceveli. Mobilde görsel üstte. Renkler yalnız desing anahtarı + var(--mx-site-*) — koyu mod otomatik. Üç dil + RTL.",
+        "en": "Two-column hero: eyebrow, h1, paragraph, two CTAs (filled + outline) and a trust row (data[]: icon + text) on the start side; image with a token-coloured organic shape and a floating stat badge on the end side. desing.stil: blob | kare-kesit | cerceveli. Image stacks on top on mobile. Colours come only from desing keys + var(--mx-site-*) — dark mode automatic. Three languages + RTL.",
+        "ar": "هيرو بعمودين: تسمية علوية وعنوان h1 وفقرة وزرّان (ممتلئ + إطار) وسطر الثقة (data[]: أيقونة + نص) في جهة البداية؛ صورة خلفها شكل عضوي بلون الرمز وشارة إحصائية عائمة في جهة النهاية. desing.stil: blob | kare-kesit | cerceveli. على الجوال تظهر الصورة أولًا. الألوان من مفاتيح desing و var(--mx-site-*) فقط — الوضع الداكن تلقائي. ثلاث لغات + RTL."
+      },
+      "version": "1.0.0",
+      "icon": "view_sidebar",
+      "category": "hero",
+      "tags": [
+        "hero",
+        "split",
+        "bolunmus",
+        "cta",
+        "guven",
+        "blob",
+        "ar"
+      ],
+      "desing": {
+        "stil": "cerceveli",
+        "max": "1200px",
+        "bg": "var(--mx-site-bg, #ffffff)",
+        "surface": "var(--mx-site-surface, #f6f6f4)",
+        "text": "var(--mx-site-text, #1b1b1b)",
+        "muted": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 72%, var(--mx-site-bg, #ffffff))",
+        "accent": "var(--mx-site-primary, #2563eb)",
+        "accentText": "var(--mx-site-primary-contrast, #ffffff)",
+        "border": "color-mix(in srgb, var(--mx-site-text, #1b1b1b) 14%, transparent)",
+        "radius": "20px",
+        "eyebrow": {
+          "tr": "Puro Cottone atölyesi"
+        },
+        "title": {
+          "tr": "Gaziantep'te kişiye özel terzihane"
+        },
+        "metin": {
+          "tr": "Hazır giyim ortalama bir beden için üretilir; Puro Cottone ise sizin için keser. Takım elbise, pantolon, gömlek ve yeleği ölçünüze göre çizilen kalıpla, provayla üzerinize oturtarak dikiyoruz."
+        },
+        "cta1": {
+          "tr": "Ürünleri inceleyin"
+        },
+        "cta1_url": "urunler",
+        "cta2": {
+          "tr": "Ölçü randevusu (DM)"
+        },
+        "cta2_url": "https://www.instagram.com/purocottone/",
+        "img": "t1in01/index.jpg",
+        "alt": {
+          "tr": "Puro Cottone atölyesinde usta ölçü alırken"
+        },
+        "badge_icon": "straighten",
+        "badge_value": {
+          "tr": "5 adım"
+        },
+        "badge_label": {
+          "tr": "Ölçüden teslime"
+        }
+      },
+      "data": [
+        {
+          "icon": "straighten",
+          "text": {
+            "tr": "Ölçüye özel kalıp"
+          }
+        },
+        {
+          "icon": "checkroom",
+          "text": {
+            "tr": "Provayla oturan parça"
+          }
+        },
+        {
+          "icon": "location_on",
+          "text": {
+            "tr": "Gaziantep atölye"
+          }
+        }
+      ],
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      },
+      "id": "yigh6g",
+      "path": "hero-4",
+      "local": "body",
+      "index": 22
+    }
+  ]
+}

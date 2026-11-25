@@ -1,0 +1,40 @@
+{
+  "name": {
+    "tr": "Ürünler"
+  },
+  "status": "play",
+  "category": "",
+  "id": "hs54qzyeyo",
+  "url": "",
+  "path": "urunler",
+  "index": 1,
+  "icon": "checkroom",
+  "desing": {
+    "header": [],
+    "body": [
+      "t1plpr",
+      "s5adim",
+      "t1ct01"
+    ],
+    "footer": []
+  },
+  "pathnext": "",
+  "description": {
+    "tr": "Puro Cottone ürünleri: Gaziantep'te ölçünüze göre çizilen kalıpla dikilen kişiye özel takım elbise, pantolon, gömlek ve yelek."
+  },
+  "spot": {
+    "tr": ""
+  },
+  "desc": {},
+  "title": {
+    "tr": "Ürünler"
+  },
+  "keyword": {
+    "tr": "kişiye özel takım elbise, özel dikim pantolon, ısmarlama gömlek, yelek, damatlık, Gaziantep terzi"
+  },
+  "text": {
+    "tr": "<article><h2>Ürünlerimiz</h2>\n<p>Puro Cottone'da dört ürün grubunda kişiye özel dikim yapıyoruz: takım elbise, pantolon, gömlek ve yelek. Hepsi aynı ilkeyle üretilir: hazır bir beden tablosu değil, sizin ölçünüzden sıfırdan çizilen kalıp.</p>\n<ul><li><strong>Takım elbise</strong> — damatlık, iş ve özel gün takımları; omuz çizgisi temiz kalan, kolunuzu kaldırdığınızda yukarı toplanmayan ceket.</li><li><strong>Pantolon</strong> — beli oturan, paça boyu ayakkabınıza ve duruşunuza göre belirlenen kesim.</li><li><strong>Gömlek</strong> — yakası boynunuza, manşeti bileğinize göre ayarlanan gömlek.</li><li><strong>Yelek</strong> — takımın kumaşından üçüncü parça ya da tek başına giyilen yelek.</li></ul>\n<h3>Nasıl sipariş verilir?</h3>\n<p>Ölçü randevusuyla başlarız; kalıp çizilir, kumaş kesilir, provada üzerinizde düzeltilir ve teslim edilir. Kumaş listesi ve fiyat bilgisi yakında; ölçü randevusu için Instagram hesabımız <a href=\"https://www.instagram.com/purocottone/\" target=\"_blank\" rel=\"noopener noreferrer\">@purocottone</a> üzerinden DM ile yazın.</p></article>"
+  },
+  "update": "2026-11-18T11:09:46.124Z",
+  "date": "2026-05-19"
+}

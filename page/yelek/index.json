@@ -1,0 +1,40 @@
+{
+  "name": {
+    "tr": "Yelek"
+  },
+  "status": "play",
+  "category": "",
+  "id": "yelek",
+  "path": "yelek",
+  "img": "kapak.jpg",
+  "bgimg": "1.jpg",
+  "index": 3,
+  "icon": "checkroom",
+  "description": {
+    "tr": "Tek başına ya da üç parça takımın tamamlayıcısı — gövdenize oturan, ceketin altında kat yapmayan yelek."
+  },
+  "keyword": {
+    "tr": "kişiye özel yelek, özel dikim yelek, üç parça takım elbise, damatlık yelek, Gaziantep terzi, Puro Cottone"
+  },
+  "title": {
+    "tr": "Kişiye Özel Yelek"
+  },
+  "text": {
+    "tr": "<article><h2>Gövdenize oturan yelek</h2><p>Yelek bedeni en yakından saran parçadır; birkaç santim fark hemen göze çarpar. Kişiye özel yelekte göğüs, bel ve boy ölçünüze göre çizilen kalıpla, ceketin altında kat yapmayan ve pantolon belini kapatan bir oran kurarız.</p><h3>Örnek modeller</h3><ul class=\"modulex-pd5-features\"><li><strong>Üç parça takım yeleği</strong> — ceket ve pantolonla aynı kumaştan.</li><li><strong>Damatlık yeleği</strong> — ceket çıkarıldığında da düğün boyunca derli toplu görünüm.</li><li><strong>Tek yelek</strong> — gömlekle sade, ceketsiz kombin.</li></ul><h3>Detayda neye bakıyoruz?</h3><ul><li><strong>Boy:</strong> yelek pantolon belini kapatır; arada gömlek görünmez.</li><li><strong>Göğüs ve bel:</strong> gövdeye oturur, düğmeler arasında gerilme olmaz.</li><li><strong>Kol evi:</strong> ceketin altında kat yapmaz, hareketi kısıtlamaz.</li><li><strong>Prova:</strong> ceketle birlikte denenir, oran birlikte düzeltilir.</li></ul><h3>Kumaş ve fiyat</h3><p>Kumaş seçenekleri ve fiyat bilgisi: yakında. Ölçü randevusunda birlikte seçeriz.</p><h3>Kişiye özel akış</h3><p>Ölçü → Kalıp → Kesim → Prova → Teslim. Adımların ayrıntısı aşağıda.</p></article>"
+  },
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4",
+      "gye001",
+      "s5adim",
+      "g5akis",
+      "t1ct01"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "update": "2026-11-18",
+  "date": "2026-11-18",
+  "bg": "1.jpg"
+}

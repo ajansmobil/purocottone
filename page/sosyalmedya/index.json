@@ -1,0 +1,38 @@
+{
+  "name": {
+    "tr": "Sosyal Medya"
+  },
+  "status": "play",
+  "id": "sosyalmedya",
+  "path": "sosyalmedya",
+  "category": "",
+  "bgimg": "1.jpg",
+  "text": {
+    "tr": "<article><h2>Bizi takip edin</h2>\n<p>Atölyeden kareler, terzilik ipuçları ve ölçüden teslime videolarımız Instagram hesabımızda. Bir takımın kalıbının nasıl çizildiğini, kumaşın nasıl kesildiğini ve provada neyin düzeltildiğini adım adım paylaşıyoruz.</p>\n<ul><li><strong>Instagram:</strong> <a href=\"https://www.instagram.com/purocottone/\" target=\"_blank\" rel=\"noopener noreferrer\">@purocottone</a></li><li><strong>Ölçü randevusu:</strong> Instagram'dan DM ile yazın.</li><li><strong>Etiketler:</strong> #purocottone · #gaziantep — kendi Puro Cottone parçanızı paylaşırken bu etiketleri kullanın, sizi görelim.</li></ul>\n<h3>Hesabımızda neler var?</h3>\n<p>Hazır giyimin neden üzerinizde emanet durduğunu anlatan kısa videolar, damatlık provasından kareler, paça ve yaka gibi detaylarda neye bakmanız gerektiğine dair ipuçları. Her video, ölçü–kalıp–kesim–prova–teslim akışının bir adımını gösterir.</p>\n<h3>Bize nasıl ulaşırsınız?</h3>\n<p>Soru, ölçü randevusu ya da kumaş seçimi için en hızlı yol Instagram mesajıdır. Diğer hesaplarımız (TikTok, YouTube, Facebook) yakında.</p></article>"
+  },
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4",
+      "gsosyl",
+      "ctaig1"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "index": 2,
+  "icon": "photo_camera",
+  "title": {
+    "tr": "Sosyal Medya"
+  },
+  "description": {
+    "tr": "Puro Cottone Instagram hesabı, etiketler ve videolarımızdan kareler."
+  },
+  "keyword": {
+    "tr": "Puro Cottone Instagram, purocottone, Gaziantep terzi, terzilik videoları, atölye"
+  },
+  "update": "2026-11-18T11:09:46.131Z",
+  "date": "2026-11-18",
+  "url": "",
+  "pathnext": ""
+}

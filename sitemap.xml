@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    <url>
+        <loc>https://purocottone.com/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/" />
+        <lastmod>2026-11-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://purocottone.com/tr/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/" />
+        <lastmod>2026-11-25</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+    <url>
+        <loc>https://purocottone.com/tr/hakkimizda/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/hakkimizda/" />
+        <lastmod>2026-11-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://purocottone.com/tr/urunler/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/urunler/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/urunler/" />
+        <lastmod>2026-11-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://purocottone.com/tr/sosyalmedya/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/sosyalmedya/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/sosyalmedya/" />
+        <lastmod>2026-11-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://purocottone.com/tr/iletisim/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/iletisim/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/iletisim/" />
+        <lastmod>2026-11-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://purocottone.com/tr/takim-elbise/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/takim-elbise/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/takim-elbise/" />
+        <image:image>
+            <image:loc>https://purocottone.com/page/takimelbise/kapak.jpg</image:loc>
+            <image:title>Takım Elbise</image:title>
+        </image:image>
+        <lastmod>2026-11-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://purocottone.com/tr/pantolon/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/pantolon/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/pantolon/" />
+        <image:image>
+            <image:loc>https://purocottone.com/page/pantolon/kapak.jpg</image:loc>
+            <image:title>Pantolon</image:title>
+        </image:image>
+        <lastmod>2026-11-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://purocottone.com/tr/gomlek/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/gomlek/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/gomlek/" />
+        <image:image>
+            <image:loc>https://purocottone.com/page/gomlek/kapak.jpg</image:loc>
+            <image:title>Gömlek</image:title>
+        </image:image>
+        <lastmod>2026-11-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://purocottone.com/tr/yelek/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/yelek/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/yelek/" />
+        <image:image>
+            <image:loc>https://purocottone.com/page/yelek/kapak.jpg</image:loc>
+            <image:title>Yelek</image:title>
+        </image:image>
+        <lastmod>2026-11-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://purocottone.com/tr/palto/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/palto/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/palto/" />
+        <lastmod>2026-11-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://purocottone.com/tr/kaban/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/kaban/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/kaban/" />
+        <lastmod>2026-11-25</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://purocottone.com/tr/hakkimizda/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/hakkimizda/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/hakkimizda/" />
+        <lastmod>2026-11-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://purocottone.com/tr/misyon/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/misyon/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/misyon/" />
+        <lastmod>2026-11-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://purocottone.com/tr/vizyon/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/vizyon/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/vizyon/" />
+        <lastmod>2026-11-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://purocottone.com/tr/kalitepolitikamiz/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/kalitepolitikamiz/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/kalitepolitikamiz/" />
+        <lastmod>2026-11-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://purocottone.com/tr/gizlilikpolitikasi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/gizlilikpolitikasi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/gizlilikpolitikasi/" />
+        <lastmod>2026-11-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://purocottone.com/tr/kisiselveriler/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/kisiselveriler/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/kisiselveriler/" />
+        <lastmod>2026-11-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://purocottone.com/tr/kullanicahaklari/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/kullanicahaklari/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/kullanicahaklari/" />
+        <lastmod>2026-11-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://purocottone.com/tr/yasaluyari/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/yasaluyari/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/yasaluyari/" />
+        <lastmod>2026-11-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    <url>
+        <loc>https://purocottone.com/tr/cerez-politikasi/</loc>
+        <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/cerez-politikasi/" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/cerez-politikasi/" />
+        <lastmod>2026-11-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+</urlset>

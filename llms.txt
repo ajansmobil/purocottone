@@ -1,0 +1,33 @@
+# Puro Cottone
+
+> Puro Cottone — Gaziantep'te kişiye özel terzihane. Takım elbise, pantolon, gömlek ve yelek ölçünüze göre çizilen kalıpla, provayla dikilir.
+
+Web: https://purocottone.com/tr/ · Adres: Batıkent Mahallesi, Adnan İnanıcı Cad. No: 25/C, Şehitkamil / Gaziantep · Telefon: +905309741150
+
+## Sayfalar
+- [Puro Cottone](https://purocottone.com/tr/): Puro Cottone — Gaziantep'te kişiye özel terzihane.
+- [Kurumsal](https://purocottone.com/tr/hakkimizda/): Puro Cottone kurumsal: Gaziantep'te kişiye özel terzihane — hakkımızda, misyon, vizyon, kalite politikası ve yasal bilgilendirmeler.
+- [Ürünler](https://purocottone.com/tr/urunler/): Puro Cottone ürünleri: Gaziantep'te ölçünüze göre çizilen kalıpla dikilen kişiye özel takım elbise, pantolon, gömlek ve yelek.
+- [Sosyal Medya](https://purocottone.com/tr/sosyalmedya/): Puro Cottone Instagram hesabı, etiketler ve videolarımızdan kareler.
+- [İletişim](https://purocottone.com/tr/iletisim/): Puro Cottone iletişim: Batıkent Mahallesi, Adnan İnanıcı Cad.
+- [Hakkımızda](https://purocottone.com/tr/hakkimizda/)
+- [Misyon](https://purocottone.com/tr/misyon/)
+- [Vizyon](https://purocottone.com/tr/vizyon/)
+- [Kalite Politikamız](https://purocottone.com/tr/kalitepolitikamiz/)
+- [Gizlilik Politikası](https://purocottone.com/tr/gizlilikpolitikasi/): Puro Cottone gizlilik politikası: sitemizi ziyaret ettiğinizde hangi bilgilerin toplandığı, nasıl kullanıldığı ve nasıl korunduğu.
+- [Kişisel Veriler](https://purocottone.com/tr/kisiselveriler/): Puro Cottone KVKK aydınlatma metni: 6698 sayılı Kanun kapsamında kişisel verilerin işlenme amaçları, aktarımı ve haklarınız.
+- [Kullanıcı Hakları](https://purocottone.com/tr/kullanicahaklari/): Puro Cottone kullanıcı hakları: sitemizi kullanırken mevzuattan doğan başlıca haklarınız ve bunları nasıl kullanabileceğiniz.
+- [Yasal Uyarı](https://purocottone.com/tr/yasaluyari/): Puro Cottone yasal uyarı: bu internet sitesinin kullanım koşulları, içerik ve fikri mülkiyet hakları hakkında bilgilendirme.
+- [Çerez Politikası](https://purocottone.com/tr/cerez-politikasi/): Puro Cottone çerez politikası: sitemizde kullanılan çerezler, kullanım amaçları ve çerez tercihlerinizi nasıl yönetebileceğiniz.
+
+## Urunler
+- [Takım Elbise](https://purocottone.com/tr/takim-elbise/): Damatlık, iş ve özel gün takımları — ölçünüze göre çizilen kalıpla, provayla üzerinize oturtulur.
+- [Pantolon](https://purocottone.com/tr/pantolon/): Bel, oturuş ve paça boyu sizin duruşunuza ve ayakkabınıza göre — önde tek kırılma, temiz çizgi.
+- [Gömlek](https://purocottone.com/tr/gomlek/): Yaka, omuz ve kol boyu ölçünüze göre; ceketle uyumlu manşet payıyla dikilir.
+- [Yelek](https://purocottone.com/tr/yelek/): Tek başına ya da üç parça takımın tamamlayıcısı — gövdenize oturan, ceketin altında kat yapmayan yelek.
+- [Palto](https://purocottone.com/tr/palto/): Takımın üzerine rahat oturan, omuz çizgisi bozulmayan palto — ölçünüze göre çizilen kalıpla dikilir.
+- [Kaban](https://purocottone.com/tr/kaban/): Soğuk günlerde sıcak tutan, hareketi kısıtlamayan kaban — ölçünüze göre çizilen kalıpla dikilir.
+
+## Diger
+- [sitemap.xml](https://purocottone.com/sitemap.xml): tum URL listesi
+- [llms-full.txt](https://purocottone.com/llms-full.txt): sayfa govdeleri duz metin

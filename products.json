@@ -1,0 +1,171 @@
+{
+  "data": [
+    {
+      "name": {
+        "tr": "Takım Elbise"
+      },
+      "status": "play",
+      "category": "",
+      "id": "takimelbise",
+      "path": "takim-elbise",
+      "img": "kapak.jpg",
+      "bgimg": "1.jpg",
+      "index": 0,
+      "icon": "checkroom",
+      "description": {
+        "tr": "Damatlık, iş ve özel gün takımları — ölçünüze göre çizilen kalıpla, provayla üzerinize oturtulur."
+      },
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4",
+          "gte001",
+          "s5adim",
+          "g5akis",
+          "t1ct01"
+        ],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "Pantolon"
+      },
+      "status": "play",
+      "category": "",
+      "id": "pantolon",
+      "path": "pantolon",
+      "img": "kapak.jpg",
+      "bgimg": "1.jpg",
+      "index": 1,
+      "icon": "checkroom",
+      "description": {
+        "tr": "Bel, oturuş ve paça boyu sizin duruşunuza ve ayakkabınıza göre — önde tek kırılma, temiz çizgi."
+      },
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4",
+          "gpa001",
+          "s5adim",
+          "g5akis",
+          "t1ct01"
+        ],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "Gömlek"
+      },
+      "status": "play",
+      "category": "",
+      "id": "gomlek",
+      "path": "gomlek",
+      "img": "kapak.jpg",
+      "bgimg": "1.jpg",
+      "index": 2,
+      "icon": "checkroom",
+      "description": {
+        "tr": "Yaka, omuz ve kol boyu ölçünüze göre; ceketle uyumlu manşet payıyla dikilir."
+      },
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4",
+          "ggo001",
+          "s5adim",
+          "g5akis",
+          "t1ct01"
+        ],
+        "footer": []
+      }
+    },
+    {
+      "name": {
+        "tr": "Yelek"
+      },
+      "status": "play",
+      "category": "",
+      "id": "yelek",
+      "path": "yelek",
+      "img": "kapak.jpg",
+      "bgimg": "1.jpg",
+      "index": 3,
+      "icon": "checkroom",
+      "description": {
+        "tr": "Tek başına ya da üç parça takımın tamamlayıcısı — gövdenize oturan, ceketin altında kat yapmayan yelek."
+      },
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4",
+          "gye001",
+          "s5adim",
+          "g5akis",
+          "t1ct01"
+        ],
+        "footer": []
+      }
+    },
+    {
+      "id": "zmq8c8edw7",
+      "name": {
+        "tr": "Palto"
+      },
+      "description": {
+        "tr": "Takımın üzerine rahat oturan, omuz çizgisi bozulmayan palto — ölçünüze göre çizilen kalıpla dikilir."
+      },
+      "path": "palto",
+      "icon": "checkroom",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4",
+          "s5adim",
+          "g5akis",
+          "t1ct01"
+        ],
+        "footer": []
+      },
+      "index": 4
+    },
+    {
+      "id": "0h7u4m5nx2",
+      "name": {
+        "tr": "Kaban"
+      },
+      "description": {
+        "tr": "Soğuk günlerde sıcak tutan, hareketi kısıtlamayan kaban — ölçünüze göre çizilen kalıpla dikilir."
+      },
+      "path": "kaban",
+      "icon": "checkroom",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4",
+          "s5adim",
+          "g5akis",
+          "t1ct01"
+        ],
+        "footer": []
+      },
+      "index": 5
+    }
+  ],
+  "desc": [],
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "img": true,
+    "bgimg": true,
+    "detail": true
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "data": [
+    {
+      "name": {
+        "tr": "Hakkımızda"
+      },
+      "status": "play",
+      "id": "hakkimizda",
+      "path": "hakkimizda",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [
+          "t1in01",
+          "tp5jo4",
+          "t1ct01"
+        ],
+        "footer": []
+      },
+      "index": 1,
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Misyon"
+      },
+      "status": "play",
+      "id": "misyon",
+      "path": "misyon",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4",
+          "t1ct01"
+        ],
+        "footer": []
+      },
+      "index": 2,
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Vizyon"
+      },
+      "status": "play",
+      "id": "vizyon",
+      "path": "vizyon",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4",
+          "t1ct01"
+        ],
+        "footer": []
+      },
+      "index": 3,
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Kalite Politikamız"
+      },
+      "status": "play",
+      "id": "kalitepolitikamiz",
+      "path": "kalitepolitikamiz",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4",
+          "t1ct01"
+        ],
+        "footer": []
+      },
+      "index": 4,
+      "icon": "home"
+    },
+    {
+      "name": {
+        "tr": "Gizlilik Politikası"
+      },
+      "status": "play",
+      "id": "gizlilikpolitikasi",
+      "path": "gizlilikpolitikasi",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4",
+          "t1ct01"
+        ],
+        "footer": []
+      },
+      "index": 5,
+      "icon": "home",
+      "description": {
+        "tr": "Puro Cottone gizlilik politikası: sitemizi ziyaret ettiğinizde hangi bilgilerin toplandığı, nasıl kullanıldığı ve nasıl korunduğu."
+      }
+    },
+    {
+      "name": {
+        "tr": "Kişisel Veriler"
+      },
+      "status": "play",
+      "id": "kisiselveriler",
+      "path": "kisiselveriler",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4",
+          "t1ct01"
+        ],
+        "footer": []
+      },
+      "index": 6,
+      "icon": "home",
+      "description": {
+        "tr": "Puro Cottone KVKK aydınlatma metni: 6698 sayılı Kanun kapsamında kişisel verilerin işlenme amaçları, aktarımı ve haklarınız."
+      }
+    },
+    {
+      "name": {
+        "tr": "Kullanıcı Hakları"
+      },
+      "status": "play",
+      "id": "kullanicahaklari",
+      "path": "kullanicahaklari",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4",
+          "t1ct01"
+        ],
+        "footer": []
+      },
+      "index": 7,
+      "icon": "home",
+      "description": {
+        "tr": "Puro Cottone kullanıcı hakları: sitemizi kullanırken mevzuattan doğan başlıca haklarınız ve bunları nasıl kullanabileceğiniz."
+      }
+    },
+    {
+      "name": {
+        "tr": "Yasal Uyarı"
+      },
+      "status": "play",
+      "id": "yasaluyari",
+      "path": "yasaluyari",
+      "category": "",
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4",
+          "t1ct01"
+        ],
+        "footer": []
+      },
+      "index": 8,
+      "icon": "home",
+      "description": {
+        "tr": "Puro Cottone yasal uyarı: bu internet sitesinin kullanım koşulları, içerik ve fikri mülkiyet hakları hakkında bilgilendirme."
+      }
+    },
+    {
+      "id": "cerez-politikasi",
+      "name": {
+        "tr": "Çerez Politikası"
+      },
+      "description": {
+        "tr": "Puro Cottone çerez politikası: sitemizde kullanılan çerezler, kullanım amaçları ve çerez tercihlerinizi nasıl yönetebileceğiniz."
+      },
+      "path": "cerez-politikasi",
+      "icon": "cookie",
+      "category": "",
+      "status": "play",
+      "desing": {
+        "header": [],
+        "body": [
+          "t1ct01"
+        ],
+        "footer": []
+      },
+      "index": 9
+    }
+  ],
+  "desc": [],
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4"
+    ],
+    "footer": []
+  },
+  "modulestatus": {
+    "page": true,
+    "bgimg": false,
+    "detail": true,
+    "body": true
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "name": {
+    "tr": "Pantolon"
+  },
+  "status": "play",
+  "category": "",
+  "id": "pantolon",
+  "path": "pantolon",
+  "img": "kapak.jpg",
+  "bgimg": "1.jpg",
+  "index": 1,
+  "icon": "checkroom",
+  "description": {
+    "tr": "Bel, oturuş ve paça boyu sizin duruşunuza ve ayakkabınıza göre — önde tek kırılma, temiz çizgi."
+  },
+  "keyword": {
+    "tr": "kişiye özel pantolon, özel dikim pantolon, kumaş pantolon, paça boyu, Gaziantep terzi, Puro Cottone"
+  },
+  "title": {
+    "tr": "Kişiye Özel Pantolon"
+  },
+  "text": {
+    "tr": "<article><h2>Tek kırılma, temiz çizgi</h2><p>Paça kumaşı ayakkabının üstünde yığıldığında boyunuz olduğundan kısa görünür; paça çok kısaysa ayakta dururken çorabınız görünür. Kişiye özel pantolonda paça boyunu giydiğiniz ayakkabının formuna ve duruşunuza göre belirleriz.</p><h3>Örnek modeller</h3><ul class=\"modulex-pd5-features\"><li><strong>Takım pantolonu</strong> — ceketle aynı kumaştan, takımın oranına göre.</li><li><strong>Tek kumaş pantolon</strong> — ceketsiz, gömlek ya da yelekle giyilecek kesim.</li><li><strong>Düğün / özel gün pantolonu</strong> — uzun saatler ayakta ve dansta rahat oturuş.</li></ul><h3>Detayda neye bakıyoruz?</h3><ul><li><strong>Paça:</strong> önde tek zarif kırılma, arkada topuk hizasına düz düşüş.</li><li><strong>Bel:</strong> doğal bel hattınızda durur; kemer hattı ceketle dengelenir.</li><li><strong>Oturuş:</strong> otururken ve yürürken kumaş gerilmez.</li><li><strong>Prova:</strong> paça, provada giydiğiniz ayakkabıyla iğnelenir.</li></ul><h3>Kumaş ve fiyat</h3><p>Kumaş seçenekleri ve fiyat bilgisi: yakında. Ölçü randevusunda birlikte seçeriz.</p><h3>Kişiye özel akış</h3><p>Ölçü → Kalıp → Kesim → Prova → Teslim. Adımların ayrıntısı aşağıda.</p></article>"
+  },
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4",
+      "gpa001",
+      "s5adim",
+      "g5akis",
+      "t1ct01"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "update": "2026-11-18",
+  "date": "2026-11-18",
+  "bg": "1.jpg"
+}

@@ -1,0 +1,116 @@
+{
+  "name": "Sayfalar",
+  "path": "page",
+  "desc": [],
+  "data": [
+    {
+      "name": {
+        "tr": "Kurumsal"
+      },
+      "status": "play",
+      "category": "",
+      "id": "yvi9dlb59o",
+      "url": "",
+      "path": "kurumsal",
+      "index": 0,
+      "desing": {
+        "header": [],
+        "body": [
+          "t1in01",
+          "tp5jo4"
+        ],
+        "footer": []
+      },
+      "pathnext": "hakkimizda",
+      "description": {
+        "tr": "Puro Cottone kurumsal: Gaziantep'te kişiye özel terzihane — hakkımızda, misyon, vizyon, kalite politikası ve yasal bilgilendirmeler."
+      }
+    },
+    {
+      "name": {
+        "tr": "Ürünler"
+      },
+      "status": "play",
+      "category": "",
+      "id": "hs54qzyeyo",
+      "url": "",
+      "path": "urunler",
+      "index": 1,
+      "icon": "checkroom",
+      "desing": {
+        "header": [],
+        "body": [
+          "t1plpr",
+          "s5adim",
+          "t1ct01"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Puro Cottone ürünleri: Gaziantep'te ölçünüze göre çizilen kalıpla dikilen kişiye özel takım elbise, pantolon, gömlek ve yelek."
+      }
+    },
+    {
+      "name": {
+        "tr": "Sosyal Medya"
+      },
+      "status": "play",
+      "category": "",
+      "id": "sosyalmedya",
+      "url": "",
+      "path": "sosyalmedya",
+      "index": 2,
+      "icon": "photo_camera",
+      "desing": {
+        "header": [],
+        "body": [
+          "tp5jo4",
+          "gsosyl",
+          "ctaig1"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Puro Cottone Instagram hesabı, etiketler ve videolarımızdan kareler."
+      }
+    },
+    {
+      "name": {
+        "tr": "İletişim"
+      },
+      "status": "play",
+      "category": "",
+      "id": "xnzu5au0ag",
+      "url": "",
+      "path": "iletisim",
+      "index": 3,
+      "icon": "call",
+      "desing": {
+        "header": [],
+        "body": [
+          "fhxr98",
+          "ctaig1"
+        ],
+        "footer": []
+      },
+      "pathnext": "",
+      "description": {
+        "tr": "Puro Cottone iletişim: Batıkent Mahallesi, Adnan İnanıcı Cad. No: 25/C, Şehitkamil / Gaziantep. Telefon ve WhatsApp: 0530 974 11 50 · Instagram @purocottone."
+      }
+    }
+  ],
+  "index": 0,
+  "desing": {
+    "header": [],
+    "body": [],
+    "footer": []
+  },
+  "modulestatus": {
+    "page": true,
+    "bgimg": false,
+    "detail": true,
+    "body": true
+  }
+}

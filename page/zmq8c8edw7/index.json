@@ -1,0 +1,36 @@
+{
+  "id": "zmq8c8edw7",
+  "name": {
+    "tr": "Palto"
+  },
+  "description": {
+    "tr": "Takımın üzerine rahat oturan, omuz çizgisi bozulmayan palto — ölçünüze göre çizilen kalıpla dikilir."
+  },
+  "keyword": {
+    "tr": "kişiye özel palto, özel dikim palto, ısmarlama palto, erkek palto, Gaziantep terzi, Puro Cottone"
+  },
+  "path": "palto",
+  "icon": "checkroom",
+  "category": "",
+  "status": "play",
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4",
+      "s5adim",
+      "g5akis",
+      "t1ct01"
+    ],
+    "footer": []
+  },
+  "index": 4,
+  "url": "",
+  "text": {
+    "tr": "<article><h2>Takımınızın üzerine oturan palto</h2><p>Palto, ceketin üzerine giyildiği için kalıbı ayrı çizilir: omuz ve kol evi ceketi sıkıştırmayacak payla hesaplanır. Puro Cottone'da paltonuzu ölçünüze göre sıfırdan çizilen kalıpla keser, provayla üzerinize oturturuz.</p><h3>Örnek modeller</h3><ul class=\"modulex-pd5-features\"><li><strong>Klasik palto</strong> — diz hizasında, düz çizgili, günlük ve iş için.</li><li><strong>Kruvaze palto</strong> — çift sıra düğmeli, omuzu vurgulu kesim.</li><li><strong>Damatlık paltosu</strong> — takımla uyumlu, düğün gününe özel.</li></ul><h3>Detayda neye bakıyoruz?</h3><ul><li><strong>Omuz ve kol evi:</strong> ceketle birlikte denenir, kol hareketi kısıtlanmaz.</li><li><strong>Boy:</strong> diz hizası ya da istediğiniz uzunluk, ayakkabıyla birlikte değerlendirilir.</li><li><strong>Yaka:</strong> duruşunuza ve kravat/atkı kullanımınıza göre belirlenir.</li><li><strong>Prova:</strong> takımınızla birlikte yapılır, oran birlikte düzeltilir.</li></ul><h3>Kumaş ve fiyat</h3><p>Kumaş seçenekleri ve fiyat bilgisi: yakında. Ölçü randevusunda birlikte seçeriz.</p><h3>Kişiye özel akış</h3><p>Ölçü → Kalıp → Kesim → Prova → Teslim. Adımların ayrıntısı aşağıda.</p></article>"
+  },
+  "title": {
+    "tr": "Kişiye Özel Palto"
+  },
+  "date": "2026-11-25T11:40:51.666Z",
+  "update": "2026-11-25T11:41:19.064Z"
+}

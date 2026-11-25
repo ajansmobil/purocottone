@@ -1,0 +1,34 @@
+{
+  "name": {
+    "tr": "Kalite Politikamız"
+  },
+  "status": "play",
+  "id": "kalitepolitikamiz",
+  "path": "kalitepolitikamiz",
+  "category": "",
+  "text": {
+    "tr": "<article><h2>Kalite Politikamız</h2>\n<p>Kaliteyi kumaşta değil, parçanın üzerinizde nasıl durduğunda ölçeriz. Bir takımın iyi olup olmadığı askıda değil, siz hareket ederken anlaşılır: kolunuzu kaldırdığınızda ceketin yukarı toplanmaması, oturduğunuzda pantolonun çekmemesi.</p>\n<h3>İlkelerimiz</h3>\n<ul><li>Kalıp standart bedenden değil, alınan ölçüden çizilir.</li><li>Parça dikilmeden önce teyelli provada üzerinizde düzeltilir; düğme ve son dikiş provadan sonra gelir.</li><li>Paça boyu giydiğiniz ayakkabıya ve duruşunuza göre belirlenir.</li><li>Ceket kolu bilek kemiğinde durur, altından gömlek manşeti görünür.</li><li>Gün boyu rahat için nefes alan kumaş seçenekleri önerilir.</li></ul>\n<h3>Kontrol noktaları</h3>\n<p>Omuz, kol boyu, bel ve paça her provada yeniden kontrol edilir. Omuzu yanlış olan bir ceket sonradan kurtarılamayacağı için omuz dikişinin omuz ucunuzda bitmesi ilk bakılan noktadır.</p>\n<p>Teslimden sonra bir şeyin içinize sinmediğini düşünürseniz bize Instagram hesabımız <a href=\"https://www.instagram.com/purocottone/\" target=\"_blank\" rel=\"noopener noreferrer\">@purocottone</a> üzerinden yazın; parçanın üzerinizde nasıl durduğunu birlikte değerlendiririz.</p></article>"
+  },
+  "desing": {
+    "header": [],
+    "body": [
+      "tp5jo4",
+      "t1ct01"
+    ],
+    "footer": []
+  },
+  "desc": {},
+  "index": 3,
+  "icon": "home",
+  "title": {
+    "tr": "Kalite Politikamız"
+  },
+  "description": {
+    "tr": "Puro Cottone kalite ilkeleri: ölçüden çizilen kalıp, teyelli prova, duruşa göre paça."
+  },
+  "keyword": {
+    "tr": "Puro Cottone kalite politikası, prova, kalıp, terzilik kalitesi"
+  },
+  "update": "2026-11-18T11:09:46.174Z",
+  "date": "2026-05-19"
+}
