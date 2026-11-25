@@ -3,46 +3,71 @@
     {
       "index": 0,
       "name": "Menu",
-      "path": "menu-2",
+      "path": "menu-9",
       "local": "header",
       "category": "menu",
       "id": "vey1el",
       "desing": {
         "bgcolor": "#0B0B0B",
         "color": "#FFFFFF",
-        "activebgcolor": "#C9A45C",
-        "activecolor": "#111111",
-        "height": "100px",
-        "ariaToggle": {
-          "tr": "Menüyü aç/kapat",
-          "en": "Toggle menu",
-          "ar": "تبديل القائمة"
+        "logo": "{{logo}}",
+        "accent": "#C9A45C",
+        "accentText": "#111111",
+        "band_bg": "#161616",
+        "band_text": "#E6D3A3",
+        "bg": "#0B0B0B",
+        "bilgi_bandi": true,
+        "border": "rgba(201,164,92,0.35)",
+        "bordercolor": "rgba(201,164,92,0.35)",
+        "hours": {
+          "ar": "",
+          "en": "",
+          "tr": ""
         },
-        "ariaClose": {
-          "tr": "Menüyü kapat",
-          "en": "Close menu"
+        "logo_h": "64px",
+        "muted": "#CFC7B8",
+        "phone": "+90 530 974 11 50",
+        "showlang": false,
+        "social": [
+          {
+            "ad": "Instagram",
+            "url": "https://www.instagram.com/purocottone/"
+          }
+        ],
+        "sticky": true,
+        "stil": "cizgili",
+        "text": "#FFFFFF",
+        "max": "1200px",
+        "email": "",
+        "search": false,
+        "search_url": "urunler/",
+        "search_placeholder": {
+          "tr": "Ürün ara…",
+          "en": "Search products…",
+          "es": "Buscar productos…",
+          "fr": "Rechercher un produit…",
+          "de": "Produkt suchen…"
         },
-        "logobg": "transparent",
-        "logoborder": "none",
-        "logoradius": "0",
-        "logopad": "0",
-        "logopadmobil": "0",
-        "logomaxh": "100px",
-        "logoimg": "",
-        "tekSatir": "",
-        "langcolor": "currentColor",
-        "langbg": "transparent",
-        "logoDark": "",
-        "duzen": "",
-        "ctaText": {
-          "tr": "0530 974 11 50"
-        },
-        "ctaHref": "tel:+905309741150",
-        "temaDugmesi": "",
-        "temaAnahtar": ""
+        "search_label": {
+          "tr": "Ara",
+          "en": "Search",
+          "es": "Buscar",
+          "fr": "Rechercher",
+          "de": "Suchen"
+        }
       },
       "version": "1.0.0",
-      "icon": "menu"
+      "icon": "align_horizontal_center",
+      "description": {
+        "tr": "Üstte ince bilgi bandı (telefon, e-posta, çalışma saati, sosyal, dil seçici — desing.bilgi_bandi ile açılır/kapanır), altında ortada logo; menü öğeleri logonun iki yanına bölünür (tek sayıda ise fazlası sağa). Mobilde hamburger + tam ekran panel. desing.sticky: kaydırınca küçülen sabit çubuk (300 ms). Ek bağlantılar data[] = [{name{tr,en,ar}, url}]. desing.stil: ince | cizgili | kutulu. Renkler yalnız desing anahtarı + var(--mx-site-*) — koyu mod otomatik. Üç dil + RTL.",
+        "en": "Thin info band on top (phone, email, working hours, social, language switcher — toggled by desing.bilgi_bandi), logo centered below; menu items split on both sides of the logo (odd count → extra item on the end side). Mobile: hamburger + full-screen panel. desing.sticky: fixed bar that shrinks on scroll (300 ms). Extra links via data[] = [{name{tr,en,ar}, url}]. desing.stil: ince | cizgili | kutulu. Colours only from desing keys + var(--mx-site-*) — dark mode automatic. Three languages + RTL.",
+        "ar": "شريط معلومات رفيع في الأعلى (هاتف، بريد، ساعات العمل، شبكات اجتماعية، محدد اللغة — يُفعَّل عبر desing.bilgi_bandi)، وتحته الشعار في المنتصف؛ تتوزع عناصر القائمة على جانبي الشعار (العدد الفردي → العنصر الزائد في جهة النهاية). على الجوال: زر القائمة + لوحة بملء الشاشة. desing.sticky: شريط ثابت يتقلّص عند التمرير (300 ms). روابط إضافية عبر data[] = [{name{tr,en,ar}, url}]. desing.stil: ince | cizgili | kutulu. الألوان من مفاتيح desing و var(--mx-site-*) فقط — الوضع الداكن تلقائي. ثلاث لغات + RTL."
+      },
+      "veri": {
+        "statik": true,
+        "dinamik": false,
+        "kaynak": "desing/data"
+      }
     },
     {
       "name": "Slider",
