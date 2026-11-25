@@ -102,6 +102,10 @@
         <loc>https://purocottone.com/tr/palto/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/palto/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/palto/" />
+        <image:image>
+            <image:loc>https://purocottone.com/page/zmq8c8edw7/kapak.jpg</image:loc>
+            <image:title>Palto</image:title>
+        </image:image>
         <lastmod>2026-11-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
@@ -110,6 +114,10 @@
         <loc>https://purocottone.com/tr/kaban/</loc>
         <xhtml:link rel="alternate" hreflang="tr" href="https://purocottone.com/tr/kaban/" />
         <xhtml:link rel="alternate" hreflang="x-default" href="https://purocottone.com/tr/kaban/" />
+        <image:image>
+            <image:loc>https://purocottone.com/page/0h7u4m5nx2/kapak.jpg</image:loc>
+            <image:title>Kaban</image:title>
+        </image:image>
         <lastmod>2026-11-25</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>

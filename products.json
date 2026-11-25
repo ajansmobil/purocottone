@@ -130,7 +130,9 @@
         ],
         "footer": []
       },
-      "index": 4
+      "index": 4,
+      "img": "kapak.jpg",
+      "bgimg": "1.jpg"
     },
     {
       "id": "0h7u4m5nx2",
@@ -154,7 +156,9 @@
         ],
         "footer": []
       },
-      "index": 5
+      "index": 5,
+      "img": "kapak.jpg",
+      "bgimg": "1.jpg"
     }
   ],
   "desc": [],

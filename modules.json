@@ -278,7 +278,7 @@
           "tr": "Kişiye özel dikim"
         },
         "sectionSubtitle": {
-          "tr": "Ölçünüze göre çizilen kalıpla dikilen takım elbise, pantolon, gömlek ve yelek."
+          "tr": "Ölçünüze göre çizilen kalıpla dikilen takım elbise, pantolon, gömlek, yelek, palto ve kaban."
         },
         "ctaLabel": {
           "tr": "Tümünü gör"
@@ -404,7 +404,7 @@
           "tr": "Kişiye özel üretim"
         },
         "sectionTitle": {
-          "tr": "Takım elbise · Pantolon · Gömlek · Yelek"
+          "tr": "Takım elbise · Pantolon · Gömlek · Yelek · Palto · Kaban"
         },
         "sectionSubtitle": {
           "tr": "Her parça ölçünüzle başlar, provada üzerinizde düzeltilir."
@@ -461,44 +461,64 @@
       },
       "data": [
         {
+          "baslik": {
+            "tr": "Takım Elbise"
+          },
           "img": "vitrin/takim-elbise.jpg",
           "katAd": {
             "tr": "Damatlık · iş · özel gün"
           },
-          "baslik": {
-            "tr": "Takım Elbise"
-          },
           "url": "takim-elbise"
         },
         {
+          "baslik": {
+            "tr": "Pantolon"
+          },
           "img": "vitrin/pantolon.jpg",
           "katAd": {
             "tr": "Paça · bel · düşüş"
           },
-          "baslik": {
-            "tr": "Pantolon"
-          },
           "url": "pantolon"
         },
         {
+          "baslik": {
+            "tr": "Gömlek"
+          },
           "img": "vitrin/gomlek.jpg",
           "katAd": {
             "tr": "Yaka · manşet · kol"
           },
-          "baslik": {
-            "tr": "Gömlek"
-          },
           "url": "gomlek"
         },
         {
+          "baslik": {
+            "tr": "Yelek"
+          },
           "img": "vitrin/yelek.jpg",
           "katAd": {
             "tr": "Üç parça takımın tamamlayıcısı"
           },
-          "baslik": {
-            "tr": "Yelek"
-          },
           "url": "yelek"
+        },
+        {
+          "baslik": {
+            "tr": "Palto"
+          },
+          "img": "vitrin/palto.jpg",
+          "katAd": {
+            "tr": "Omuz · boy · yaka"
+          },
+          "url": "palto"
+        },
+        {
+          "baslik": {
+            "tr": "Kaban"
+          },
+          "img": "vitrin/kaban.jpg",
+          "katAd": {
+            "tr": "Sıcak · rahat · kısa kesim"
+          },
+          "url": "kaban"
         }
       ],
       "index": 11
