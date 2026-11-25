@@ -8,15 +8,15 @@
       "category": "menu",
       "id": "vey1el",
       "desing": {
-        "bgcolor": "#0B0B0B",
+        "bgcolor": "#000000",
         "color": "#FFFFFF",
         "logo": "{{logo}}",
         "accent": "#C9A45C",
         "accentText": "#111111",
         "band_bg": "#161616",
         "band_text": "#E6D3A3",
-        "bg": "#0B0B0B",
-        "bilgi_bandi": true,
+        "bg": "#000000",
+        "bilgi_bandi": false,
         "border": "rgba(201,164,92,0.35)",
         "bordercolor": "rgba(201,164,92,0.35)",
         "hours": {
@@ -24,16 +24,11 @@
           "en": "",
           "tr": ""
         },
-        "logo_h": "64px",
+        "logo_h": "72px",
         "muted": "#CFC7B8",
-        "phone": "+90 530 974 11 50",
+        "phone": "",
         "showlang": false,
-        "social": [
-          {
-            "ad": "Instagram",
-            "url": "https://www.instagram.com/purocottone/"
-          }
-        ],
+        "social": [],
         "sticky": true,
         "stil": "cizgili",
         "text": "#FFFFFF",
